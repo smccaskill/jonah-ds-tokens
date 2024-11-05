@@ -394,6 +394,10 @@
         "lg": {
           "value": "{font-size.scaled.175}",
           "type": "fontSizes"
+        },
+        "xl": {
+          "value": "{font-size.scaled.200}",
+          "type": "fontSizes"
         }
       }
     }

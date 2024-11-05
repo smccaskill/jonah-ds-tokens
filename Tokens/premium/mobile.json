@@ -394,6 +394,10 @@
         "lg": {
           "value": "{font-size.scaled.150}",
           "type": "fontSizes"
+        },
+        "xl": {
+          "value": "{components.cards.font-size.lg}",
+          "type": "fontSizes"
         }
       }
     }

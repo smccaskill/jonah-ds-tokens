@@ -1,0 +1,14 @@
+{
+  "component": {
+    "space": {
+      "overlay-card": {
+        "inset": {
+          "36": {
+            "value": "{dimension.150}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}
