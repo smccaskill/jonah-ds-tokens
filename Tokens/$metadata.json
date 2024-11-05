@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "premium/desktop",
+    "premium/mobile",
+    "goldcrest/light",
+    "goldcrest/dark",
+    "woodlark/light",
+    "woodlark/dark",
+    "theme-base/light",
+    "theme-base/dark"
+  ]
+}
