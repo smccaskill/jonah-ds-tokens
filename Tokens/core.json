@@ -64,6 +64,10 @@
       "value": "{dimension.base} * 350",
       "type": "dimension"
     },
+    "375": {
+      "value": "{dimension.base} * 375",
+      "type": "dimension"
+    },
     "400": {
       "value": "{dimension.base} * 400",
       "type": "dimension"

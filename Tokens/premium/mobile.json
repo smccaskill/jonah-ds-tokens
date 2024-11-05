@@ -355,6 +355,10 @@
       "value": "{dimension.350}",
       "type": "spacing"
     },
+    "60": {
+      "value": "{dimension.375}",
+      "type": "spacing"
+    },
     "64": {
       "value": "{dimension.400}",
       "type": "spacing"
@@ -365,6 +369,10 @@
     },
     "80": {
       "value": "{dimension.500}",
+      "type": "spacing"
+    },
+    "112": {
+      "value": "{dimension.700}",
       "type": "spacing"
     }
   },
@@ -377,6 +385,16 @@
       "body": {
         "value": "{theme.font-family.body}",
         "type": "fontFamilies"
+      }
+    }
+  },
+  "components": {
+    "cards": {
+      "font-size": {
+        "lg": {
+          "value": "{font-size.scaled.150}",
+          "type": "fontSizes"
+        }
       }
     }
   }
