@@ -388,17 +388,45 @@
       }
     }
   },
-  "components": {
+  "component": {
     "cards": {
       "font-size": {
         "lg": {
-          "value": "{font-size.scaled.150}",
+          "value": "{font-size.scaled.125}",
           "type": "fontSizes"
         },
         "xl": {
-          "value": "{components.cards.font-size.lg}",
+          "value": "{component.cards.font-size.lg}",
           "type": "fontSizes"
         }
+      }
+    },
+    "space": {
+      "overlay-card": {
+        "inset": {
+          "36": {
+            "value": "{space.24}",
+            "type": "spacing"
+          }
+        }
+      },
+      "tab": {
+        "horizontal-padding": {
+          "value": "{space.36}",
+          "type": "spacing"
+        }
+      }
+    },
+    "overlay-card": {
+      "button": {
+        "value": "true",
+        "type": "boolean",
+        "description": "Hides the button on mobile"
+      },
+      "description": {
+        "value": "false",
+        "type": "boolean",
+        "description": "Hides the description on mobile"
       }
     }
   }

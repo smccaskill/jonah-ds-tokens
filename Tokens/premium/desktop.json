@@ -388,7 +388,7 @@
       }
     }
   },
-  "components": {
+  "component": {
     "cards": {
       "font-size": {
         "lg": {
@@ -399,6 +399,34 @@
           "value": "{font-size.scaled.200}",
           "type": "fontSizes"
         }
+      }
+    },
+    "space": {
+      "overlay-card": {
+        "inset": {
+          "36": {
+            "value": "{space.36}",
+            "type": "spacing"
+          }
+        }
+      },
+      "tab": {
+        "horizontal-padding": {
+          "value": "{space.48}",
+          "type": "spacing"
+        }
+      }
+    },
+    "overlay-card": {
+      "button": {
+        "value": "false",
+        "type": "boolean",
+        "description": "Hides the button on mobile"
+      },
+      "description": {
+        "value": "true",
+        "type": "boolean",
+        "description": "Hides the description on mobile"
       }
     }
   }

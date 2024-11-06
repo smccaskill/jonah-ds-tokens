@@ -8,8 +8,6 @@
     "woodlark/light",
     "woodlark/dark",
     "theme-base/light",
-    "theme-base/dark",
-    "components/desktop",
-    "components/mobile"
+    "theme-base/dark"
   ]
 }
