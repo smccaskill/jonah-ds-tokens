@@ -425,6 +425,30 @@
           "value": "{space.36}",
           "type": "spacing"
         }
+      },
+      "card-header": {
+        "inset": {
+          "none": {
+            "value": "{space.0}",
+            "type": "spacing"
+          },
+          "small": {
+            "value": "{space.16}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{space.16}",
+            "type": "spacing"
+          },
+          "large": {
+            "value": "{space.36}",
+            "type": "spacing"
+          },
+          "x-large": {
+            "value": "{space.48}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "overlay-card": {
@@ -438,6 +462,16 @@
         "type": "boolean",
         "description": "Hides the description on mobile"
       }
+    }
+  },
+  "container": {
+    "border-style": {
+      "value": {
+        "color": "{color.border.primary-dark}",
+        "width": "{border-width.sm}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   }
 }
