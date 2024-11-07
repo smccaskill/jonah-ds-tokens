@@ -155,11 +155,21 @@
     }
   },
   "secondary": {
-    "body": {
+    "body-large": {
       "value": {
         "fontFamily": "{theme.font-family.body}",
         "fontWeight": "{theme.font-weight.body}",
         "fontSize": "{font-size.scaled.100}",
+        "lineHeight": "{line-height.body}",
+        "letterSpacing": "{theme.letter-spacing.body}"
+      },
+      "type": "typography"
+    },
+    "body-medium": {
+      "value": {
+        "fontFamily": "{theme.font-family.body}",
+        "fontWeight": "{theme.font-weight.body}",
+        "fontSize": "{font-size.scaled.87}",
         "lineHeight": "{line-height.body}",
         "letterSpacing": "{theme.letter-spacing.body}"
       },
