@@ -117,7 +117,7 @@
       "value": {
         "fontFamily": "{theme.font-family.body}",
         "fontWeight": "{theme.font-weight.body}",
-        "fontSize": "{font-size.scaled.112}",
+        "fontSize": "{body.lg}",
         "lineHeight": "{line-height.body}",
         "letterSpacing": "{theme.letter-spacing.body}"
       },
@@ -127,7 +127,7 @@
       "value": {
         "fontFamily": "{theme.font-family.body}",
         "fontWeight": "{theme.font-weight.body}",
-        "fontSize": "{font-size.scaled.100}",
+        "fontSize": "{body.md}",
         "lineHeight": "{line-height.body}",
         "letterSpacing": "{theme.letter-spacing.body}"
       },
@@ -291,9 +291,27 @@
       "value": "{dimension.500}",
       "type": "spacing"
     },
+    "100": {
+      "value": "{dimension.625}",
+      "type": "spacing"
+    },
     "112": {
       "value": "{dimension.700}",
       "type": "spacing"
+    },
+    "gutter": {
+      "16": {
+        "value": "{dimension.100}",
+        "type": "spacing"
+      },
+      "24": {
+        "value": "{dimension.150}",
+        "type": "spacing"
+      },
+      "32": {
+        "value": "{dimension.200}",
+        "type": "spacing"
+      }
     }
   },
   "size": {

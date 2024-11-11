@@ -92,6 +92,10 @@
       "value": "{dimension.base} * 600",
       "type": "dimension"
     },
+    "625": {
+      "value": "{dimension.base} * 625",
+      "type": "dimension"
+    },
     "700": {
       "value": "{dimension.base} * 700",
       "type": "dimension"
@@ -388,7 +392,7 @@
       "type": "lineHeights"
     },
     "xl": {
-      "value": "150%",
+      "value": "160%",
       "type": "lineHeights"
     },
     "xxl": {
