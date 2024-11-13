@@ -110,7 +110,7 @@
         "type": "color"
       },
       "accent": {
-        "value": "{theme.colors.accent-color-1}",
+        "value": "{base-color.neutral.neutral-lighter}",
         "type": "color"
       },
       "secondary": {
