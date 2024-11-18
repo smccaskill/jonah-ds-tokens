@@ -142,6 +142,16 @@
         "value": "{layout.mobile.sm}",
         "type": "sizing"
       }
+    },
+    "button": {
+      "sm": {
+        "value": "{dimension.250}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{dimension.250}",
+        "type": "sizing"
+      }
     }
   },
   "letter-spacing": {

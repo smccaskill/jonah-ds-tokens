@@ -90,7 +90,7 @@
     },
     "button": {
       "border-radius": {
-        "value": "{border-radius.selectable.none}",
+        "value": "{border-radius.selectable.pill}",
         "type": "borderRadius"
       }
     }

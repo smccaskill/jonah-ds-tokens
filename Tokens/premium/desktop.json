@@ -320,6 +320,16 @@
         "value": "{layout.desktop.sm}",
         "type": "sizing"
       }
+    },
+    "button": {
+      "sm": {
+        "value": "{dimension.250}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{dimension.300}",
+        "type": "sizing"
+      }
     }
   },
   "letter-spacing": {
