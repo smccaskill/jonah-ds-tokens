@@ -139,7 +139,7 @@
   "size": {
     "container": {
       "max-width": {
-        "value": "{layout.mobile.sm}",
+        "value": "{device.mobile.sm}",
         "type": "sizing"
       }
     },

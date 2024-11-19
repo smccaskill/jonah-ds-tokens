@@ -317,7 +317,7 @@
   "size": {
     "container": {
       "max-width": {
-        "value": "{layout.desktop.sm}",
+        "value": "{device.desktop.sm}",
         "type": "sizing"
       }
     },

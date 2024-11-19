@@ -544,7 +544,7 @@
       "type": "opacity"
     }
   },
-  "layout": {
+  "device": {
     "mobile": {
       "xs": {
         "value": "320",
