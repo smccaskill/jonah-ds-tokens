@@ -93,6 +93,16 @@
         "value": "{border-radius.selectable.pill}",
         "type": "borderRadius"
       }
+    },
+    "text-case": {
+      "headings": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "body": {
+        "value": "none",
+        "type": "textCase"
+      }
     }
   },
   "color": {

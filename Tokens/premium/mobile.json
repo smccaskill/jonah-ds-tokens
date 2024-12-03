@@ -501,5 +501,15 @@
       },
       "type": "border"
     }
+  },
+  "text-case": {
+    "headings": {
+      "value": "{theme.text-case.headings}",
+      "type": "textCase"
+    },
+    "body": {
+      "value": "{theme.text-case.body}",
+      "type": "textCase"
+    }
   }
 }
