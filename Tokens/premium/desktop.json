@@ -196,11 +196,11 @@
   },
   "line-height": {
     "headings": {
-      "value": "{line-height.s}",
+      "value": "{theme.line-height.headings}",
       "type": "lineHeights"
     },
     "body": {
-      "value": "{line-height.xl}",
+      "value": "{theme.line-height.body}",
       "type": "lineHeights"
     }
   },

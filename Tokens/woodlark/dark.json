@@ -103,6 +103,16 @@
         "value": "none",
         "type": "textCase"
       }
+    },
+    "line-height": {
+      "headings": {
+        "value": "{line-height.s}",
+        "type": "lineHeights"
+      },
+      "body": {
+        "value": "{line-height.xl}",
+        "type": "lineHeights"
+      }
     }
   },
   "color": {
