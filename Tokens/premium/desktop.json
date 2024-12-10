@@ -48,6 +48,12 @@
         "value": "{border-radius.scale} * {border-radius.pill}",
         "type": "borderRadius"
       }
+    },
+    "theme": {
+      "button": {
+        "value": "{theme.button.border-radius}",
+        "type": "borderRadius"
+      }
     }
   },
   "primary": {
