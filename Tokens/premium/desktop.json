@@ -318,6 +318,18 @@
         "value": "{dimension.200}",
         "type": "spacing"
       }
+    },
+    "hero": {
+      "horizontal-padding": {
+        "divided": {
+          "value": "{space.72}",
+          "type": "spacing"
+        },
+        "normal": {
+          "value": "{space.72}",
+          "type": "spacing"
+        }
+      }
     }
   },
   "size": {
@@ -334,6 +346,28 @@
       },
       "lg": {
         "value": "{dimension.300}",
+        "type": "sizing"
+      }
+    },
+    "spacer": {
+      "xs": {
+        "value": "{dimension.62}",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "{dimension.125}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{dimension.250}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{dimension.500}",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "{dimension.625}",
         "type": "sizing"
       }
     }
@@ -357,12 +391,12 @@
       "value": "14",
       "type": "fontSizes"
     },
-    "md": {
-      "value": "16",
-      "type": "fontSizes"
-    },
     "lg": {
       "value": "18",
+      "type": "fontSizes"
+    },
+    "md": {
+      "value": "16",
       "type": "fontSizes"
     },
     "xl": {

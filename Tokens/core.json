@@ -24,6 +24,10 @@
       "value": "{dimension.base} * 50",
       "type": "dimension"
     },
+    "62": {
+      "value": "{dimension.base} * 62.5",
+      "type": "dimension"
+    },
     "75": {
       "value": "{dimension.base} * 75",
       "type": "dimension"

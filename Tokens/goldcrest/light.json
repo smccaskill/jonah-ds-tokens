@@ -383,7 +383,7 @@
     },
     "neutral": {
       "black": {
-        "value": "{color.system.black}",
+        "value": "{color.neutral.90}",
         "type": "color"
       },
       "neutral-darkest": {
