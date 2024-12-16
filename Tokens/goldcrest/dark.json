@@ -140,6 +140,19 @@
       "tertiary": {
         "value": "{theme.colors.accent-color-3}",
         "type": "color"
+      },
+      "transparent": {
+        "value": "{theme.background.primary-light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "text": {

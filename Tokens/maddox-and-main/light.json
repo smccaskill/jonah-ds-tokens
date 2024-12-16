@@ -2,19 +2,19 @@
   "theme": {
     "colors": {
       "accent-color-1": {
-        "value": "#B15947",
+        "value": "#233235",
         "type": "color"
       },
       "accent-color-2": {
-        "value": "#687a87",
+        "value": "#f8f8f8",
         "type": "color"
       },
       "accent-color-3": {
-        "value": "#687a87",
+        "value": "#f8f8f8",
         "type": "color"
       },
       "background-palette": {
-        "value": "#687a87",
+        "value": "#222",
         "type": "color"
       },
       "sticky-nav-background": {
@@ -38,11 +38,11 @@
     },
     "font-family": {
       "headings": {
-        "value": "Tenor Sans",
+        "value": "Belleza",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Nunito",
+        "value": "Cantarell",
         "type": "fontFamilies"
       }
     },
@@ -58,7 +58,7 @@
     },
     "font-weight": {
       "headings": {
-        "value": "Regular",
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "body": {
@@ -72,19 +72,19 @@
     },
     "background": {
       "primary-light": {
-        "value": "{color.system.white}",
-        "type": "color"
-      },
-      "secondary-light": {
-        "value": "{base-color.neutral.neutral-lightest}",
-        "type": "color"
-      },
-      "primary-dark": {
         "value": "{theme.colors.background-palette}",
         "type": "color"
       },
+      "secondary-light": {
+        "value": "{color.system.white}",
+        "type": "color"
+      },
+      "primary-dark": {
+        "value": "{color.system.black}",
+        "type": "color"
+      },
       "secondary-dark": {
-        "value": "{theme.colors.sticky-nav-background}",
+        "value": "{base-color.neutral.black}",
         "type": "color"
       }
     },
@@ -106,7 +106,7 @@
     },
     "line-height": {
       "headings": {
-        "value": "{line-height.s}",
+        "value": "{line-height.xl}",
         "type": "lineHeights"
       },
       "body": {
