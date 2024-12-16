@@ -58,7 +58,7 @@
     },
     "font-weight": {
       "headings": {
-        "value": "SemiBold",
+        "value": "Regular",
         "type": "fontWeights"
       },
       "body": {
@@ -72,7 +72,7 @@
     },
     "background": {
       "primary-light": {
-        "value": "{theme.colors.background-palette}",
+        "value": "{color.system.white}",
         "type": "color"
       },
       "secondary-light": {

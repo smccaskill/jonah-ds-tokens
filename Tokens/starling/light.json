@@ -72,7 +72,7 @@
     },
     "background": {
       "primary-light": {
-        "value": "{theme.colors.background-palette}",
+        "value": "{color.system.white}",
         "type": "color"
       },
       "secondary-light": {

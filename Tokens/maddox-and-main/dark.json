@@ -58,7 +58,7 @@
     },
     "font-weight": {
       "headings": {
-        "value": "SemiBold",
+        "value": "Regular",
         "type": "fontWeights"
       },
       "body": {
