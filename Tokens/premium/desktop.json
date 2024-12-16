@@ -222,6 +222,12 @@
     "button": {
       "value": "{theme.font-weight.button}",
       "type": "fontWeights"
+    },
+    "global": {
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
     }
   },
   "space": {
@@ -391,12 +397,12 @@
       "value": "14",
       "type": "fontSizes"
     },
-    "lg": {
-      "value": "18",
-      "type": "fontSizes"
-    },
     "md": {
       "value": "16",
+      "type": "fontSizes"
+    },
+    "lg": {
+      "value": "18",
       "type": "fontSizes"
     },
     "xl": {

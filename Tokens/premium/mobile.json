@@ -140,6 +140,12 @@
     "button": {
       "value": "{theme.font-weight.button}",
       "type": "fontWeights"
+    },
+    "global": {
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
     }
   },
   "size": {

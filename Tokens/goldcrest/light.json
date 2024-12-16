@@ -58,7 +58,7 @@
     },
     "font-weight": {
       "headings": {
-        "value": "Regular",
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "body": {
@@ -106,7 +106,7 @@
     },
     "line-height": {
       "headings": {
-        "value": "{line-height.s}",
+        "value": "{line-height.xl}",
         "type": "lineHeights"
       },
       "body": {
