@@ -113,6 +113,14 @@
         "value": "{line-height.xl}",
         "type": "lineHeights"
       }
+    },
+    "mobile": {
+      "line-height": {
+        "headings": {
+          "value": "{line-height.s}",
+          "type": "lineHeights"
+        }
+      }
     }
   },
   "color": {
@@ -431,6 +439,12 @@
         "value": "{color.neutral.90}",
         "type": "color"
       }
+    }
+  },
+  "border-width": {
+    "theme": {
+      "value": "{border-width.md}",
+      "type": "borderWidth"
     }
   }
 }

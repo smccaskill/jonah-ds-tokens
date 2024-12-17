@@ -120,7 +120,7 @@
   },
   "line-height": {
     "headings": {
-      "value": "{theme.line-height.headings}",
+      "value": "{theme.mobile.line-height.headings}",
       "type": "lineHeights"
     },
     "body": {
