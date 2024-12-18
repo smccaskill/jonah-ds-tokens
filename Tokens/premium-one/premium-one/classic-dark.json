@@ -1,6 +1,6 @@
 {
   "color_brand": {
-    "value": "#FFE084",
+    "value": "#CEAA74",
     "type": "color"
   },
   "color_text_dark": {
@@ -8,15 +8,15 @@
     "type": "color"
   },
   "color_text_light": {
-    "value": "#FFFFFF",
-    "type": "color"
-  },
-  "color_bg_primary": {
     "value": "#fff",
     "type": "color"
   },
+  "color_bg_primary": {
+    "value": "#27353F",
+    "type": "color"
+  },
   "color_bg_secondary": {
-    "value": "#FFE084",
+    "value": "#CFD5D7",
     "type": "color"
   }
 }

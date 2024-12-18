@@ -4,12 +4,20 @@
     "premium/desktop",
     "premium/mobile",
     "premium-one/classic-light",
+    "premium-one/classic-dark",
     "premium-one/coastal-light",
+    "premium-one/coastal-dark",
     "premium-one/eclectic-light",
+    "premium-one/eclectic-dark",
     "premium-one/midcentury-light",
+    "premium-one/midcentury-dark",
     "premium-one/modern-light",
+    "premium-one/modern-dark",
     "premium-one/nostalgia-light",
+    "premium-one/nostalgia-dark",
     "premium-one/upscale-light",
-    "premium-one/urban-brutalist-light"
+    "premium-one/upscale-dark",
+    "premium-one/urban-brutalist-light",
+    "premium-one/urban-brutalist-dark"
   ]
 }
