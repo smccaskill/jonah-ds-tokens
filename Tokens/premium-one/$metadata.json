@@ -3,6 +3,13 @@
     "core",
     "premium/desktop",
     "premium/mobile",
-    "premium-one/classic-light"
+    "premium-one/classic-light",
+    "premium-one/coastal-light",
+    "premium-one/eclectic-light",
+    "premium-one/midcentury-light",
+    "premium-one/modern-light",
+    "premium-one/nostalgia-light",
+    "premium-one/upscale-light",
+    "premium-one/urban-brutalist-light"
   ]
 }

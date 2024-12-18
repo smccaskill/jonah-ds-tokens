@@ -4,7 +4,13 @@
     "name": "Tokens",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled"
+      "core": "enabled",
+      "premium-one/eclectic-light": "disabled",
+      "premium-one/midcentury-light": "disabled",
+      "premium-one/modern-light": "disabled",
+      "premium-one/nostalgia-light": "disabled",
+      "premium-one/upscale-light": "disabled",
+      "premium-one/urban-brutalist-light": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2138:61368",
     "$figmaModeId": "2138:1",
@@ -150,7 +156,13 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "premium/mobile": "enabled"
+      "premium/mobile": "enabled",
+      "premium-one/eclectic-light": "disabled",
+      "premium-one/midcentury-light": "disabled",
+      "premium-one/modern-light": "disabled",
+      "premium-one/nostalgia-light": "disabled",
+      "premium-one/upscale-light": "disabled",
+      "premium-one/urban-brutalist-light": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2007:1623",
     "$figmaModeId": "2007:2",

@@ -1,0 +1,22 @@
+{
+  "color_brand": {
+    "value": "#38F770",
+    "type": "color"
+  },
+  "color_text_dark": {
+    "value": "#202020",
+    "type": "color"
+  },
+  "color_text_light": {
+    "value": "#F3F2F0",
+    "type": "color"
+  },
+  "color_bg_primary": {
+    "value": "#F3F2F0",
+    "type": "color"
+  },
+  "color_bg_secondary": {
+    "value": "#FFFFFF",
+    "type": "color"
+  }
+}
