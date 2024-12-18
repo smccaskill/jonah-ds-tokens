@@ -3,7 +3,6 @@
     "core",
     "premium/desktop",
     "premium/mobile",
-    "theme-base/light",
-    "classic/light"
+    "premium-one/classic-light"
   ]
 }
