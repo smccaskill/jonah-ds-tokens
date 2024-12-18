@@ -4,8 +4,7 @@
     "name": "Tokens",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled",
-      "premium-one/classic-light": "disabled"
+      "core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2138:61368",
     "$figmaModeId": "2138:1",
@@ -151,8 +150,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "premium/mobile": "enabled",
-      "premium-one/classic-light": "disabled"
+      "premium/mobile": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2007:1623",
     "$figmaModeId": "2007:2",
