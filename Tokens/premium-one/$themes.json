@@ -4,15 +4,7 @@
     "name": "Tokens",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled",
-      "premium-one/classic-dark": "disabled",
-      "premium-one/coastal-dark": "disabled",
-      "premium-one/eclectic-dark": "disabled",
-      "premium-one/midcentury-dark": "disabled",
-      "premium-one/modern-dark": "disabled",
-      "premium-one/nostalgia-dark": "disabled",
-      "premium-one/upscale-dark": "disabled",
-      "premium-one/urban-brutalist-dark": "disabled"
+      "core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2138:61368",
     "$figmaModeId": "2138:1",
@@ -153,24 +145,107 @@
     "group": "Core"
   },
   {
+    "id": "309f83b83c62ad68aa49b07403e789bd4d3ba034",
+    "name": "Desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "premium/desktop": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2007:1623",
+    "$figmaModeId": "2007:1",
+    "$figmaVariableReferences": {},
+    "group": "Viewport"
+  },
+  {
     "id": "1fce751345ebf5c060202794e22ea2ecb2b0d7b1",
     "name": "Mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "premium/mobile": "enabled",
-      "premium-one/classic-dark": "disabled",
-      "premium-one/coastal-dark": "disabled",
-      "premium-one/eclectic-dark": "disabled",
-      "premium-one/midcentury-dark": "disabled",
-      "premium-one/modern-dark": "disabled",
-      "premium-one/nostalgia-dark": "disabled",
-      "premium-one/upscale-dark": "disabled",
-      "premium-one/urban-brutalist-dark": "disabled"
+      "premium/mobile": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2007:1623",
     "$figmaModeId": "2007:2",
     "$figmaVariableReferences": {},
     "group": "Viewport"
+  },
+  {
+    "id": "e7902ddfb8ef8b1038c22976eebdbb995240d395",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "woodlark/light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2007:1814",
+    "$figmaModeId": "2007:5",
+    "$figmaVariableReferences": {},
+    "group": "Woodlark"
+  },
+  {
+    "id": "06e5930a55324de3a3cb7a072c45b7d98f5df800",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "woodlark/dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2007:1814",
+    "$figmaModeId": "2007:6",
+    "$figmaVariableReferences": {},
+    "group": "Woodlark"
+  },
+  {
+    "id": "702e06d21f18330a5b469296ab8986bef4de2447",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "goldcrest/light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2007:1624",
+    "$figmaModeId": "2007:3",
+    "$figmaVariableReferences": {},
+    "group": "Goldcrest"
+  },
+  {
+    "id": "5b8a54609bd687818b136d5782d642d12c25e475",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "goldcrest/dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2007:1624",
+    "$figmaModeId": "2007:4",
+    "$figmaVariableReferences": {},
+    "group": "Goldcrest"
+  },
+  {
+    "id": "7577360206be602449f1b71c34de5933d59d31cb",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "theme-base/light": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2027:4418",
+    "$figmaModeId": "2027:54",
+    "$figmaVariableReferences": {},
+    "group": "Theme Base"
+  },
+  {
+    "id": "68cc311ba274df69ab9fd8b64b03c5eb4d20e070",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "theme-base/dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2027:4418",
+    "$figmaModeId": "2027:55",
+    "$figmaVariableReferences": {},
+    "group": "Theme Base"
   }
 ]
