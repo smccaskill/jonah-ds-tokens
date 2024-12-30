@@ -106,7 +106,7 @@
     },
     "line-height": {
       "headings": {
-        "value": "{line-height.xl}",
+        "value": "{line-height.s}",
         "type": "lineHeights"
       },
       "body": {
@@ -117,7 +117,7 @@
     "mobile": {
       "line-height": {
         "headings": {
-          "value": "{line-height.xl}",
+          "value": "{line-height.s}",
           "type": "lineHeights"
         }
       }

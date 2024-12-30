@@ -10,7 +10,7 @@
         "type": "color"
       },
       "accent-color-3": {
-        "value": "#292e29",
+        "value": "#3A3F3A",
         "type": "color"
       },
       "background-palette": {
@@ -80,7 +80,7 @@
         "type": "color"
       },
       "primary-dark": {
-        "value": "{color.system.black}",
+        "value": "{theme.colors.background-palette}",
         "type": "color"
       },
       "secondary-dark": {
