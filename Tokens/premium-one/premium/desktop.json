@@ -63,7 +63,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.375}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     },
@@ -73,7 +74,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.300}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     },
@@ -83,7 +85,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.225}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     },
@@ -93,7 +96,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.187}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     },
@@ -103,7 +107,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.150}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     },
@@ -113,7 +118,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.112}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     }
@@ -347,11 +353,11 @@
     },
     "button": {
       "sm": {
-        "value": "{dimension.250}",
+        "value": "{theme.button.sm}",
         "type": "sizing"
       },
       "lg": {
-        "value": "{dimension.300}",
+        "value": "{theme.button.lg}",
         "type": "sizing"
       }
     },

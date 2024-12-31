@@ -63,7 +63,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.200}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     },
@@ -73,7 +74,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.175}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     },
@@ -83,7 +85,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.150}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     },
@@ -93,7 +96,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.125}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     },
@@ -103,7 +107,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.112}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     },
@@ -113,7 +118,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.100}",
         "lineHeight": "{line-height.headings}",
-        "letterSpacing": "{theme.letter-spacing.headings}"
+        "letterSpacing": "{theme.letter-spacing.headings}",
+        "textCase": "{theme.text-case.headings}"
       },
       "type": "typography"
     }

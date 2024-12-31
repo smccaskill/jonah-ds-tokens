@@ -92,6 +92,14 @@
       "border-radius": {
         "value": "{border-radius.selectable.none}",
         "type": "borderRadius"
+      },
+      "lg": {
+        "value": "{dimension.300}",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "{dimension.250}",
+        "type": "sizing"
       }
     },
     "text-case": {
