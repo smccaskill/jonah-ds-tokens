@@ -93,12 +93,12 @@
         "value": "{border-radius.selectable.pill}",
         "type": "borderRadius"
       },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      },
       "sm": {
         "value": "{dimension.250}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{dimension.300}",
         "type": "sizing"
       }
     },
