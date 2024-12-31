@@ -4,11 +4,7 @@
     "name": "Tokens",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled",
-      "premium-one/coastal-light": "disabled",
-      "premium-one/classic-light": "disabled",
-      "premium-one/eclectic-light": "disabled",
-      "premium-one/midcentury-light": "disabled"
+      "core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2138:61368",
     "$figmaModeId": "2138:1",
@@ -154,11 +150,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "premium/desktop": "enabled",
-      "premium-one/coastal-light": "disabled",
-      "premium-one/classic-light": "disabled",
-      "premium-one/eclectic-light": "disabled",
-      "premium-one/midcentury-light": "disabled"
+      "premium/desktop": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2007:1623",
     "$figmaModeId": "2007:1",
@@ -171,11 +163,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "premium/mobile": "enabled",
-      "premium-one/coastal-light": "disabled",
-      "premium-one/classic-light": "disabled",
-      "premium-one/eclectic-light": "disabled",
-      "premium-one/midcentury-light": "disabled"
+      "premium/mobile": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2007:1623",
     "$figmaModeId": "2007:2",
@@ -188,11 +176,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "woodlark/light": "enabled",
-      "premium-one/coastal-light": "disabled",
-      "premium-one/classic-light": "disabled",
-      "premium-one/eclectic-light": "disabled",
-      "premium-one/midcentury-light": "disabled"
+      "woodlark/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2007:1814",
     "$figmaModeId": "2007:5",
@@ -205,11 +189,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "woodlark/dark": "enabled",
-      "premium-one/coastal-light": "disabled",
-      "premium-one/classic-light": "disabled",
-      "premium-one/eclectic-light": "disabled",
-      "premium-one/midcentury-light": "disabled"
+      "woodlark/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2007:1814",
     "$figmaModeId": "2007:6",
@@ -222,11 +202,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "goldcrest/light": "enabled",
-      "premium-one/coastal-light": "disabled",
-      "premium-one/classic-light": "disabled",
-      "premium-one/eclectic-light": "disabled",
-      "premium-one/midcentury-light": "disabled"
+      "goldcrest/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2007:1624",
     "$figmaModeId": "2007:3",
@@ -239,11 +215,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "goldcrest/dark": "enabled",
-      "premium-one/coastal-light": "disabled",
-      "premium-one/classic-light": "disabled",
-      "premium-one/eclectic-light": "disabled",
-      "premium-one/midcentury-light": "disabled"
+      "goldcrest/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2007:1624",
     "$figmaModeId": "2007:4",
@@ -256,11 +228,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "theme-base/light": "enabled",
-      "premium-one/coastal-light": "disabled",
-      "premium-one/classic-light": "disabled",
-      "premium-one/eclectic-light": "disabled",
-      "premium-one/midcentury-light": "disabled"
+      "theme-base/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2027:4418",
     "$figmaModeId": "2027:54",
@@ -273,11 +241,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "theme-base/dark": "enabled",
-      "premium-one/coastal-light": "disabled",
-      "premium-one/classic-light": "disabled",
-      "premium-one/eclectic-light": "disabled",
-      "premium-one/midcentury-light": "disabled"
+      "theme-base/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2027:4418",
     "$figmaModeId": "2027:55",
