@@ -351,16 +351,6 @@
         "type": "sizing"
       }
     },
-    "button": {
-      "sm": {
-        "value": "{theme.button.sm}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{theme.button.lg}",
-        "type": "sizing"
-      }
-    },
     "spacer": {
       "xs": {
         "value": "{dimension.62}",
@@ -562,6 +552,28 @@
     "body": {
       "value": "{theme.text-case.body}",
       "type": "textCase"
+    }
+  },
+  "button": {
+    "vertical-padding": {
+      "sm": {
+        "value": "{dimension.62}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{theme.button.vertical-padding.lg}",
+        "type": "spacing"
+      }
+    },
+    "horizontal-padding": {
+      "sm": {
+        "value": "{dimension.150}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{theme.button.horizontal-padding.lg}",
+        "type": "spacing"
+      }
     }
   }
 }

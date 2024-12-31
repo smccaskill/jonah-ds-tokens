@@ -93,13 +93,17 @@
         "value": "{border-radius.selectable.pill}",
         "type": "borderRadius"
       },
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
+      "vertical-padding": {
+        "lg": {
+          "value": "12",
+          "type": "spacing"
+        }
       },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
+      "horizontal-padding": {
+        "lg": {
+          "value": "24",
+          "type": "spacing"
+        }
       }
     },
     "text-case": {
@@ -129,6 +133,16 @@
           "type": "lineHeights"
         }
       }
+    }
+  },
+  "button": {
+    "sm": {
+      "value": "{dimension.250}",
+      "type": "sizing"
+    },
+    "lg": {
+      "value": "{dimension.300}",
+      "type": "sizing"
     }
   },
   "color": {
