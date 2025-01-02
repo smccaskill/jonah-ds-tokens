@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
     "core",
-    "device/desktop",
-    "device/mobile",
+    "viewport/desktop",
+    "viewport/mobile",
     "premium/woodlark-light",
     "premium/woodlark-dark",
     "premium/goldcrest-light",
