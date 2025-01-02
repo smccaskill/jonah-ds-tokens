@@ -19,9 +19,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "theme-base/dark": "enabled",
-      "viewport/desktop": "disabled",
-      "viewport/mobile": "disabled"
+      "theme-base/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2027:4418",
     "$figmaModeId": "2027:55",
