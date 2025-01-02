@@ -97,10 +97,18 @@
         "lg": {
           "value": "12",
           "type": "spacing"
+        },
+        "sm": {
+          "value": "10",
+          "type": "spacing"
         }
       },
       "horizontal-padding": {
         "lg": {
+          "value": "24",
+          "type": "spacing"
+        },
+        "sm": {
           "value": "24",
           "type": "spacing"
         }

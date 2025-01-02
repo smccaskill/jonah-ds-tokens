@@ -571,7 +571,7 @@
         "type": "spacing"
       },
       "lg": {
-        "value": "{theme.button.horizontal-padding.lg}",
+        "value": "{dimension.150}",
         "type": "spacing"
       }
     }

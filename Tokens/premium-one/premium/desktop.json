@@ -557,7 +557,7 @@
   "button": {
     "vertical-padding": {
       "sm": {
-        "value": "{dimension.62}",
+        "value": "{theme.button.vertical-padding.sm}",
         "type": "spacing"
       },
       "lg": {
@@ -567,7 +567,7 @@
     },
     "horizontal-padding": {
       "sm": {
-        "value": "{dimension.150}",
+        "value": "{theme.button.horizontal-padding.sm}",
         "type": "spacing"
       },
       "lg": {

@@ -2,47 +2,47 @@
   "theme": {
     "colors": {
       "accent-color-1": {
-        "value": "#b37a41",
+        "value": "#38F770",
         "type": "color"
       },
       "accent-color-2": {
-        "value": "#4b365a",
+        "value": "#FFFFFF",
         "type": "color"
       },
       "accent-color-3": {
-        "value": "#4b365a",
+        "value": "#202020",
         "type": "color"
       },
       "background-palette": {
-        "value": "#fff",
+        "value": "#F3F2F0",
         "type": "color"
       },
       "sticky-nav-background": {
-        "value": "#41484d",
+        "value": "#F3F2F0",
         "type": "color"
       }
     },
     "on-colors": {
       "on-accent": {
-        "value": "#fff",
+        "value": "{theme.colors.accent-color-3}",
         "type": "color"
       },
       "on-background-palette": {
-        "value": "#131313",
+        "value": "{theme.colors.accent-color-3}",
         "type": "color"
       },
       "on-sticky-nav": {
-        "value": "#fff",
+        "value": "{theme.colors.accent-color-3}",
         "type": "color"
       }
     },
     "font-family": {
       "headings": {
-        "value": "Red Hat Display",
+        "value": "Neue Haas Grotesk Display Pro",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Red Hat Display",
+        "value": "Neue Haas Grotesk Display Pro",
         "type": "fontFamilies"
       }
     },
@@ -58,33 +58,33 @@
     },
     "font-weight": {
       "headings": {
-        "value": "Regular",
+        "value": "65 Medium",
         "type": "fontWeights"
       },
       "body": {
-        "value": "Regular",
+        "value": "55 Roman",
         "type": "fontWeights"
       },
       "button": {
-        "value": "Medium",
+        "value": "55 Roman",
         "type": "fontWeights"
       }
     },
     "background": {
       "primary-light": {
-        "value": "{color.system.white}",
+        "value": "{theme.colors.background-palette}",
         "type": "color"
       },
       "secondary-light": {
-        "value": "{color.system.white}",
+        "value": "{theme.colors.accent-color-2}",
         "type": "color"
       },
       "primary-dark": {
-        "value": "{color.system.black}",
+        "value": "{theme.colors.accent-color-3}",
         "type": "color"
       },
       "secondary-dark": {
-        "value": "{base-color.neutral.black}",
+        "value": "{theme.colors.sticky-nav-background}",
         "type": "color"
       }
     },
@@ -94,22 +94,22 @@
         "type": "borderRadius"
       },
       "vertical-padding": {
-        "lg": {
+        "sm": {
           "value": "12",
           "type": "spacing"
         },
-        "sm": {
-          "value": "10",
+        "lg": {
+          "value": "16",
           "type": "spacing"
         }
       },
       "horizontal-padding": {
-        "lg": {
+        "sm": {
           "value": "24",
           "type": "spacing"
         },
-        "sm": {
-          "value": "24",
+        "lg": {
+          "value": "32",
           "type": "spacing"
         }
       }
@@ -149,7 +149,7 @@
       "type": "sizing"
     },
     "lg": {
-      "value": "{dimension.300}",
+      "value": "{dimension.350}",
       "type": "sizing"
     }
   },
@@ -207,7 +207,7 @@
         "type": "color"
       },
       "inverse": {
-        "value": "{base-color.neutral.white}",
+        "value": "{theme.colors.background-palette}",
         "type": "color"
       },
       "placeholder": {
@@ -223,13 +223,13 @@
         "type": "color"
       },
       "on-color": {
-        "value": "{base-color.neutral.white}",
+        "value": "{theme.on-colors.on-accent}",
         "type": "color"
       }
     },
     "border": {
       "inverse": {
-        "value": "{base-color.neutral.neutral-darkest}",
+        "value": "{theme.colors.background-palette}",
         "type": "color"
       },
       "primary-dark": {
@@ -245,7 +245,7 @@
         "type": "color"
       },
       "primary-light": {
-        "value": "{base-color.neutral.neutral-lighter}",
+        "value": "#D3D3D3",
         "type": "color"
       },
       "hover": {
@@ -292,7 +292,7 @@
         }
       },
       "on-surface": {
-        "value": "{base-color.neutral.white}",
+        "value": "{theme.colors.background-palette}",
         "type": "color"
       },
       "secondary": {
@@ -473,7 +473,7 @@
   },
   "border-width": {
     "theme": {
-      "value": "{border-width.md}",
+      "value": "{border-width.sm}",
       "type": "borderWidth"
     }
   }
