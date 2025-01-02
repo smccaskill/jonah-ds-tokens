@@ -1,0 +1,51 @@
+[
+  {
+    "id": "7577360206be602449f1b71c34de5933d59d31cb",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "theme-base/light": "enabled",
+      "viewport/desktop": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2027:4418",
+    "$figmaModeId": "2027:54",
+    "$figmaVariableReferences": {},
+    "group": "Theme Base"
+  },
+  {
+    "id": "68cc311ba274df69ab9fd8b64b03c5eb4d20e070",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "theme-base/dark": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:2027:4418",
+    "$figmaModeId": "2027:55",
+    "$figmaVariableReferences": {},
+    "group": "Theme Base"
+  },
+  {
+    "id": "e4424aba09149a5dc3927b1be1e197f1cfa4c749",
+    "name": "Urban Brutalist",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "viewport/desktop": "source",
+      "premium-one/urban-light": "enabled"
+    },
+    "group": "Premium One"
+  },
+  {
+    "id": "ac0f5ad7d3369b7cf4fe51714cf38eeb1e48cd8b",
+    "name": "Modern Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "premium-one/modern-light": "enabled",
+      "viewport/desktop": "enabled"
+    },
+    "group": "Premium One"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "viewport/desktop",
+    "viewport/mobile",
+    "premium/woodlark-light",
+    "premium/woodlark-dark",
+    "premium/goldcrest-light",
+    "premium/goldcrest-dark",
+    "premium/starling-light",
+    "premium/starling-dark",
+    "premium/luxe-spaces-light",
+    "premium/luxe-spaces-dark",
+    "premium/axl-light",
+    "premium/axl-dark",
+    "premium/arterra-light",
+    "premium/maddox-and-main-light",
+    "premium/maddox-and-main-dark",
+    "premium/oak-and-olive-light",
+    "premium-one/coastal-light",
+    "premium-one/classic-light",
+    "premium-one/eclectic-light",
+    "premium-one/midcentury-light",
+    "premium-one/modern-light",
+    "premium-one/nostalgia-light",
+    "premium-one/upscale-ny-light",
+    "premium-one/urban-light",
+    "theme-base/light",
+    "theme-base/dark"
+  ]
+}
