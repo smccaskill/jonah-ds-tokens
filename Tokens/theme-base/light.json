@@ -259,7 +259,7 @@
     },
     "negative": {
       "default": {
-        "value": "{color.red.40}",
+        "value": "{color.red.50}",
         "type": "color"
       }
     },
@@ -344,7 +344,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "0.1",
+              "value": "1",
               "space": "lch"
             }
           }

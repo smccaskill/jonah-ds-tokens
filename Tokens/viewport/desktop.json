@@ -1,4 +1,8 @@
 {
+  "20": {
+    "value": "0.2",
+    "type": "opacity"
+  },
   "border-radius": {
     "scale": {
       "value": "1",
@@ -230,6 +234,34 @@
       "type": "fontWeights"
     },
     "global": {
+      "300": {
+        "value": "300",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "400",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "500",
+        "type": "fontWeights"
+      },
+      "600": {
+        "value": "600",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "700",
+        "type": "fontWeights"
+      },
+      "800": {
+        "value": "800",
+        "type": "fontWeights"
+      },
+      "900": {
+        "value": "900",
+        "type": "fontWeights"
+      },
       "medium": {
         "value": "Medium",
         "type": "fontWeights"
@@ -516,7 +548,7 @@
       },
       "tab": {
         "horizontal-padding": {
-          "value": "{space.48}",
+          "value": "{space.36}",
           "type": "spacing"
         }
       }
@@ -534,16 +566,6 @@
       }
     }
   },
-  "container": {
-    "border-style": {
-      "value": {
-        "color": "{color.border.primary-dark}",
-        "width": "{border-width.sm}",
-        "style": "solid"
-      },
-      "type": "border"
-    }
-  },
   "text-case": {
     "headings": {
       "value": "{theme.text-case.headings}",
@@ -552,6 +574,16 @@
     "body": {
       "value": "{theme.text-case.body}",
       "type": "textCase"
+    }
+  },
+  "container": {
+    "border-style": {
+      "value": {
+        "color": "{color.border.primary-dark}",
+        "width": "{border-width.sm}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "button": {
@@ -572,6 +604,26 @@
       },
       "lg": {
         "value": "{theme.button.horizontal-padding.lg}",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "36",
+        "type": "spacing"
+      }
+    }
+  },
+  "table": {
+    "heading": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "data": {
+      "value": "18",
+      "type": "fontSizes"
+    },
+    "horizontal-padding": {
+      "cell": {
+        "value": "{space.24}",
         "type": "spacing"
       }
     }

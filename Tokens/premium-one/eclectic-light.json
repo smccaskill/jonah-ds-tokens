@@ -229,7 +229,7 @@
     },
     "border": {
       "inverse": {
-        "value": "{theme.colors.accent-color-2}",
+        "value": "{base-color.neutral.white}",
         "type": "color"
       },
       "primary-dark": {

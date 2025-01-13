@@ -25,27 +25,5 @@
     "$figmaModeId": "2027:55",
     "$figmaVariableReferences": {},
     "group": "Theme Base"
-  },
-  {
-    "id": "e4424aba09149a5dc3927b1be1e197f1cfa4c749",
-    "name": "Urban Brutalist",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core": "source",
-      "viewport/desktop": "source",
-      "premium-one/urban-light": "enabled"
-    },
-    "group": "Premium One"
-  },
-  {
-    "id": "ac0f5ad7d3369b7cf4fe51714cf38eeb1e48cd8b",
-    "name": "Modern Light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core": "source",
-      "premium-one/modern-light": "enabled",
-      "viewport/desktop": "enabled"
-    },
-    "group": "Premium One"
   }
 ]

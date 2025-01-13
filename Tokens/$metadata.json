@@ -3,6 +3,8 @@
     "core",
     "viewport/desktop",
     "viewport/mobile",
+    "theme-base/light",
+    "theme-base/dark",
     "premium/woodlark-light",
     "premium/woodlark-dark",
     "premium/goldcrest-light",
@@ -24,8 +26,6 @@
     "premium-one/modern-light",
     "premium-one/nostalgia-light",
     "premium-one/upscale-ny-light",
-    "premium-one/urban-light",
-    "theme-base/light",
-    "theme-base/dark"
+    "premium-one/urban-light"
   ]
 }
