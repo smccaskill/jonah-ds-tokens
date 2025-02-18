@@ -1212,12 +1212,12 @@
     },
     "style": {
       "font-family": {
-        "headings": {
-          "value": "{theme.font-family.headings}",
-          "type": "fontFamilies"
-        },
         "body": {
           "value": "{theme.font-family.body}",
+          "type": "fontFamilies"
+        },
+        "headings": {
+          "value": "{theme.font-family.headings}",
           "type": "fontFamilies"
         }
       }
@@ -1689,7 +1689,7 @@
         "value": {
           "fontFamily": "{theme.font-family.body}",
           "fontWeight": "{font-weight.body}",
-          "fontSize": "{font-size.scaled.62}",
+          "fontSize": "{font-size.scaled.75}",
           "lineHeight": "{line-height.body}",
           "letterSpacing": "{theme.letter-spacing.body}"
         },
