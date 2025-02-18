@@ -1130,7 +1130,7 @@
     },
     "letter-spacing": {
       "headings": {
-        "value": "0",
+        "value": "{theme.letter-spacing.headings}",
         "type": "letterSpacing"
       },
       "body": {
@@ -2834,7 +2834,7 @@
       },
       "letter-spacing": {
         "headings": {
-          "value": "0",
+          "value": "1",
           "type": "letterSpacing"
         },
         "body": {
@@ -3614,7 +3614,7 @@
       },
       "colors": {
         "brand-primary": {
-          "value": "#8b967f",
+          "value": "#aa6950",
           "type": "color"
         },
         "brand-secondary": {
@@ -3978,7 +3978,7 @@
           "type": "color"
         },
         "bg-secondary": {
-          "value": "#333",
+          "value": "{theme.background.accent-2}",
           "type": "color"
         },
         "text-dark": {
