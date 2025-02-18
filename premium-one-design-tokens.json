@@ -10874,9 +10874,7 @@
       "name": "Light",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "core": "source",
-        "theme-base/light": "enabled",
-        "viewport/desktop": "source"
+        "premium-one/coastal-light": "enabled"
       },
       "$figmaCollectionId": "VariableCollectionId:2027:4418",
       "$figmaModeId": "2027:54",
@@ -10888,12 +10886,38 @@
       "name": "Dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "core": "source"
+        "premium-one/coastal-dark": "enabled"
       },
       "$figmaCollectionId": "VariableCollectionId:2027:4418",
       "$figmaModeId": "2027:55",
       "$figmaVariableReferences": {},
       "group": "Theme Base"
+    },
+    {
+      "id": "e4ad12fe4df6f9e7bd0b06ed8ae6637e0c526f89",
+      "name": "Desktop",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "viewport/desktop": "enabled"
+      },
+      "group": "Viewport"
+    },
+    {
+      "id": "f5abe18f2b25967e22fb59adb067a31a3c6beec5",
+      "name": "Mobile",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "viewport/mobile": "enabled"
+      },
+      "group": "Viewport"
+    },
+    {
+      "id": "e6f924a56a0b27d0ded490890cc9138cb4f1356f",
+      "name": "Core",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "enabled"
+      }
     }
   ],
   "$metadata": {
