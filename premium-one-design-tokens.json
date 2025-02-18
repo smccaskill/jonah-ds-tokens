@@ -713,10 +713,6 @@
     }
   },
   "viewport/desktop": {
-    "20": {
-      "value": "0.2",
-      "type": "opacity"
-    },
     "border-radius": {
       "scale": {
         "value": "1",
@@ -1423,10 +1419,6 @@
     }
   },
   "viewport/mobile": {
-    "20": {
-      "value": "0.2",
-      "type": "opacity"
-    },
     "border-radius": {
       "scale": {
         "value": "1",
@@ -10900,7 +10892,8 @@
       "selectedTokenSets": {
         "viewport/desktop": "enabled"
       },
-      "group": "Viewport"
+      "group": "Viewport",
+      "$figmaVariableReferences": {}
     },
     {
       "id": "f5abe18f2b25967e22fb59adb067a31a3c6beec5",
@@ -10909,7 +10902,8 @@
       "selectedTokenSets": {
         "viewport/mobile": "enabled"
       },
-      "group": "Viewport"
+      "group": "Viewport",
+      "$figmaVariableReferences": {}
     },
     {
       "id": "e6f924a56a0b27d0ded490890cc9138cb4f1356f",
@@ -10917,7 +10911,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "core": "enabled"
-      }
+      },
+      "$figmaVariableReferences": {}
     }
   ],
   "$metadata": {
