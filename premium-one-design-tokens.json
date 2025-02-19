@@ -847,7 +847,7 @@
         "value": {
           "fontFamily": "{theme.font-family.body}",
           "fontWeight": "{theme.font-weight.body}",
-          "fontSize": "{body.lg}",
+          "fontSize": "{font-size.body.lg}",
           "lineHeight": "{line-height.body}",
           "letterSpacing": "{theme.letter-spacing.body}"
         },
@@ -857,7 +857,7 @@
         "value": {
           "fontFamily": "{theme.font-family.body}",
           "fontWeight": "{theme.font-weight.body}",
-          "fontSize": "{body.md}",
+          "fontSize": "{font-size.body.md}",
           "lineHeight": "{line-height.body}",
           "letterSpacing": "{theme.letter-spacing.body}"
         },
@@ -1134,62 +1134,84 @@
         "type": "letterSpacing"
       }
     },
-    "body": {
-      "xs": {
-        "value": "12",
-        "type": "fontSizes"
+    "font-size": {
+      "body": {
+        "xs": {
+          "value": "12",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "14",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "16",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "18",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "20",
+          "type": "fontSizes"
+        }
       },
-      "sm": {
-        "value": "14",
-        "type": "fontSizes"
+      "headings": {
+        "h1": {
+          "value": "{font-size.scaled.375}",
+          "type": "fontSizes"
+        },
+        "h2": {
+          "value": "{font-size.scaled.300}",
+          "type": "fontSizes"
+        },
+        "h3": {
+          "value": "{font-size.scaled.225}",
+          "type": "fontSizes"
+        },
+        "h4": {
+          "value": "{font-size.scaled.187}",
+          "type": "fontSizes"
+        },
+        "h5": {
+          "value": "{font-size.scaled.150}",
+          "type": "fontSizes"
+        },
+        "h6": {
+          "value": "{font-size.scaled.112}",
+          "type": "fontSizes"
+        }
       },
-      "md": {
-        "value": "16",
-        "type": "fontSizes"
+      "button-text": {
+        "lg": {
+          "value": "{font-size.body.md}",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "{font-size.body.sm}",
+          "type": "fontSizes"
+        }
       },
-      "lg": {
-        "value": "18",
-        "type": "fontSizes"
+      "cards": {
+        "lg": {
+          "value": "{font-size.scaled.175}",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "{font-size.scaled.200}",
+          "type": "fontSizes"
+        }
       },
-      "xl": {
-        "value": "20",
-        "type": "fontSizes"
-      }
-    },
-    "headings": {
-      "h1": {
-        "value": "{font-size.scaled.375}",
-        "type": "fontSizes"
-      },
-      "h2": {
-        "value": "{font-size.scaled.300}",
-        "type": "fontSizes"
-      },
-      "h3": {
-        "value": "{font-size.scaled.225}",
-        "type": "fontSizes"
-      },
-      "h4": {
-        "value": "{font-size.scaled.187}",
-        "type": "fontSizes"
-      },
-      "h5": {
-        "value": "{font-size.scaled.150}",
-        "type": "fontSizes"
-      },
-      "h6": {
-        "value": "{font-size.scaled.112}",
-        "type": "fontSizes"
-      }
-    },
-    "button-text": {
-      "lg": {
-        "value": "{body.md}",
-        "type": "fontSizes"
-      },
-      "sm": {
-        "value": "{body.sm}",
-        "type": "fontSizes"
+      "table": {
+        "heading": {
+          "value": "20",
+          "type": "fontSizes"
+        },
+        "data": {
+          "value": "18",
+          "type": "fontSizes"
+        }
       }
     },
     "border-width": {
@@ -1219,18 +1241,6 @@
       }
     },
     "component": {
-      "cards": {
-        "font-size": {
-          "lg": {
-            "value": "{font-size.scaled.175}",
-            "type": "fontSizes"
-          },
-          "xl": {
-            "value": "{font-size.scaled.200}",
-            "type": "fontSizes"
-          }
-        }
-      },
       "space": {
         "overlay-card": {
           "inset": {
@@ -1339,14 +1349,6 @@
       }
     },
     "table": {
-      "heading": {
-        "value": "20",
-        "type": "fontSizes"
-      },
-      "data": {
-        "value": "18",
-        "type": "fontSizes"
-      },
       "horizontal-padding": {
         "cell": {
           "value": "{space.24}",
@@ -1728,62 +1730,84 @@
         "type": "typography"
       }
     },
-    "body": {
-      "xs": {
-        "value": "10",
-        "type": "fontSizes"
+    "font-size": {
+      "body": {
+        "xs": {
+          "value": "10",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "12",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "14",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "16",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "18",
+          "type": "fontSizes"
+        }
       },
-      "sm": {
-        "value": "12",
-        "type": "fontSizes"
+      "headings": {
+        "h1": {
+          "value": "{font-size.scaled.200}",
+          "type": "fontSizes"
+        },
+        "h2": {
+          "value": "{font-size.scaled.175}",
+          "type": "fontSizes"
+        },
+        "h3": {
+          "value": "{font-size.scaled.150}",
+          "type": "fontSizes"
+        },
+        "h4": {
+          "value": "{font-size.scaled.125}",
+          "type": "fontSizes"
+        },
+        "h5": {
+          "value": "{font-size.scaled.112}",
+          "type": "fontSizes"
+        },
+        "h6": {
+          "value": "{font-size.scaled.100}",
+          "type": "fontSizes"
+        }
       },
-      "md": {
-        "value": "14",
-        "type": "fontSizes"
+      "button-text": {
+        "lg": {
+          "value": "{font-size.body.md}",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "{font-size.body.sm}",
+          "type": "fontSizes"
+        }
       },
-      "lg": {
-        "value": "16",
-        "type": "fontSizes"
+      "cards": {
+        "lg": {
+          "value": "{font-size.scaled.125}",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "{font-size.cards.lg}",
+          "type": "fontSizes"
+        }
       },
-      "xl": {
-        "value": "18",
-        "type": "fontSizes"
-      }
-    },
-    "headings": {
-      "h1": {
-        "value": "{font-size.scaled.200}",
-        "type": "fontSizes"
-      },
-      "h2": {
-        "value": "{font-size.scaled.175}",
-        "type": "fontSizes"
-      },
-      "h3": {
-        "value": "{font-size.scaled.150}",
-        "type": "fontSizes"
-      },
-      "h4": {
-        "value": "{font-size.scaled.125}",
-        "type": "fontSizes"
-      },
-      "h5": {
-        "value": "{font-size.scaled.112}",
-        "type": "fontSizes"
-      },
-      "h6": {
-        "value": "{font-size.scaled.100}",
-        "type": "fontSizes"
-      }
-    },
-    "button-text": {
-      "lg": {
-        "value": "{body.md}",
-        "type": "fontSizes"
-      },
-      "sm": {
-        "value": "{body.sm}",
-        "type": "fontSizes"
+      "table": {
+        "heading": {
+          "value": "12",
+          "type": "fontSizes"
+        },
+        "data": {
+          "value": "12",
+          "type": "fontSizes"
+        }
       }
     },
     "border-width": {
@@ -1925,18 +1949,6 @@
       }
     },
     "component": {
-      "cards": {
-        "font-size": {
-          "lg": {
-            "value": "{font-size.scaled.125}",
-            "type": "fontSizes"
-          },
-          "xl": {
-            "value": "{component.cards.font-size.lg}",
-            "type": "fontSizes"
-          }
-        }
-      },
       "space": {
         "overlay-card": {
           "inset": {
@@ -2045,14 +2057,6 @@
       }
     },
     "table": {
-      "heading": {
-        "value": "12",
-        "type": "fontSizes"
-      },
-      "data": {
-        "value": "12",
-        "type": "fontSizes"
-      },
       "horizontal-padding": {
         "cell": {
           "value": "{space.8}",
