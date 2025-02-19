@@ -1470,12 +1470,12 @@
         }
       },
       "theme": {
-        "button": {
-          "value": "{theme.border-radius.button}",
-          "type": "borderRadius"
-        },
         "input": {
           "value": "{theme.border-radius.input}",
+          "type": "borderRadius"
+        },
+        "button": {
+          "value": "{theme.border-radius.button}",
           "type": "borderRadius"
         }
       }
