@@ -1080,18 +1080,6 @@
           "value": "{dimension.200}",
           "type": "spacing"
         }
-      },
-      "hero": {
-        "horizontal-padding": {
-          "divided": {
-            "value": "{space.72}",
-            "type": "spacing"
-          },
-          "normal": {
-            "value": "{space.72}",
-            "type": "spacing"
-          }
-        }
       }
     },
     "size": {
@@ -1304,8 +1292,8 @@
         "type": "textCase"
       }
     },
-    "container": {
-      "border-style": {
+    "border": {
+      "container": {
         "value": {
           "color": "{theme.border.on-primary}",
           "width": "{theme.border-width.box}",
@@ -1353,53 +1341,6 @@
         "cell": {
           "value": "{space.24}",
           "type": "spacing"
-        }
-      }
-    },
-    "brand": {
-      "accent": {
-        "40": {
-          "value": "{theme.background.accent-1}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.6",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "60": {
-          "value": "{theme.background.accent-1}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.4",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "80": {
-          "value": "{theme.background.accent-1}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.2",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "100": {
-          "value": "{theme.background.accent-1}",
-          "type": "color"
         }
       }
     },
@@ -1922,18 +1863,6 @@
           "value": "{dimension.200}",
           "type": "spacing"
         }
-      },
-      "hero": {
-        "horizontal-padding": {
-          "divided": {
-            "value": "{space.24}",
-            "type": "spacing"
-          },
-          "normal": {
-            "value": "{space.24}",
-            "type": "spacing"
-          }
-        }
       }
     },
     "style": {
@@ -2002,8 +1931,8 @@
         }
       }
     },
-    "container": {
-      "border-style": {
+    "border": {
+      "container": {
         "value": {
           "color": "{theme.border.on-primary}",
           "width": "{theme.border-width.box}",
@@ -2061,53 +1990,6 @@
         "cell": {
           "value": "{space.8}",
           "type": "spacing"
-        }
-      }
-    },
-    "brand-copy": {
-      "accent": {
-        "40": {
-          "value": "{theme.background.accent-1}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.6",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "60": {
-          "value": "{theme.background.accent-1}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.4",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "80": {
-          "value": "{theme.background.accent-1}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.2",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "100": {
-          "value": "{theme.background.accent-1}",
-          "type": "color"
         }
       }
     },
