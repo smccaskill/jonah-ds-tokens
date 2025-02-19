@@ -808,7 +808,6 @@
           "fontFamily": "{theme.font-family.headings}",
           "fontWeight": "{theme.font-weight.headings}",
           "fontSize": "{font-size.scaled.375}",
-          "lineHeight": "{theme.line-height.headings}",
           "letterSpacing": "{theme.letter-spacing.headings}",
           "textCase": "{theme.text-case.headings}"
         },
@@ -2032,6 +2031,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -2290,16 +2297,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium/woodlark-light": {
@@ -2368,6 +2365,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -2634,16 +2639,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium/goldcrest-light": {
@@ -2712,6 +2707,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -2978,16 +2981,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium/starling-light": {
@@ -3056,6 +3049,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -3322,16 +3323,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium/luxe-spaces-light": {
@@ -3400,6 +3391,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -3666,16 +3665,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium/axl-light": {
@@ -3744,6 +3733,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -4010,16 +4007,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium/arterra-light": {
@@ -4088,6 +4075,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -4354,16 +4349,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium/maddox-and-main-light": {
@@ -4432,6 +4417,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -4698,16 +4691,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium/oak-and-olive-light": {
@@ -4776,6 +4759,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -5042,16 +5033,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/coastal-light": {
@@ -5120,6 +5101,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -5386,16 +5375,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/coastal-dark": {
@@ -5464,6 +5443,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -5730,16 +5717,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/classic-light": {
@@ -5808,6 +5785,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -6074,16 +6059,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/classic-dark": {
@@ -6152,6 +6127,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -6418,16 +6401,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/eclectic-light": {
@@ -6496,6 +6469,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -6762,16 +6743,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/eclectic-dark": {
@@ -6840,6 +6811,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.300}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -7106,16 +7085,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.300}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/midcentury-light": {
@@ -7184,6 +7153,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -7450,16 +7427,6 @@
           "type": "borderWidth"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/midcentury-dark": {
@@ -7528,6 +7495,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -7820,16 +7795,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/modern-light": {
@@ -7898,6 +7863,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -8164,16 +8137,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/modern-dark": {
@@ -8242,6 +8205,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -8508,16 +8479,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/nostalgia-light": {
@@ -8586,6 +8547,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -8852,16 +8821,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/nostalgia-dark": {
@@ -8930,6 +8889,14 @@
             "value": "24",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -9196,16 +9163,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/upscale-ny-light": {
@@ -9274,6 +9231,14 @@
             "value": "32",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -9549,16 +9514,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/upscale-ny-dark": {
@@ -9627,6 +9582,14 @@
             "value": "32",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -9902,16 +9865,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/urban-light": {
@@ -9980,6 +9933,14 @@
             "value": "32",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -10246,16 +10207,6 @@
           "type": "color"
         }
       }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
-      }
     }
   },
   "premium-one/urban-dark": {
@@ -10324,6 +10275,14 @@
             "value": "32",
             "type": "spacing"
           }
+        },
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
         }
       },
       "text-case": {
@@ -10589,16 +10548,6 @@
           "value": "{theme.colors.text-dark}",
           "type": "color"
         }
-      }
-    },
-    "button": {
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
       }
     }
   },
