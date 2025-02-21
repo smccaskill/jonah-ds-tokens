@@ -453,24 +453,19 @@
       "theme.colors.text-light": "7a9763bc22de65f7a05ed98ff56a178322d718c9",
       "theme.on-colors.on-primary": "62d8dc7c4dd2b2706e7164928d5d5feecd94b8ad",
       "theme.on-colors.on-secondary": "6a2cabddd454e7bb02e1029a892931517ec10f56",
-      "theme.on-colors.on-accent": "d101916632db0aea4b2c6dc16068db3b5220f6f2",
       "theme.on-colors.on-image": "263a8b8355fedfc8074e0682c90d1bb9d302b2ae",
       "theme.on-colors.on-disabled": "27411967f2ef82a85a3794199d025779883450fb",
       "theme.on-colors.on-error": "a472fb352b869f9d0cc107962013d96612c6b3c7",
       "theme.background.primary": "1ede340a38afb44c745a7393c2fcf87595577943",
       "theme.background.secondary": "c7eeb96feb2ddae49d9ae7e2e11f451348d3c256",
-      "theme.background.accent-2": "d1e0e88c32b154cc3f683e9341178f9f4efc8978",
-      "theme.background.accent-3": "8c54fcf87ce8cc0455383d39916625546aa55fe0",
       "theme.surface.primary": "9f188d13f251394441c54cacf31661b688ffe628",
       "theme.surface.secondary": "dca41014a44649285b9ad9336dc5adef9a05a297",
-      "theme.surface.accent-1": "bcec72d3a918c06351a49962462f7aba2a571541",
       "theme.surface.transparent-white": "7f924e26599f12538681e42172dbd63842f86fbf",
       "theme.surface.transparent-black": "e991b08633f022da0511a1309b89dc15dd19ee34",
       "theme.surface.white": "0e388cd138908ffd8ceb03a463d855646ea69514",
       "theme.text.primary-dark": "52c8545eeed4ab1384ed66021006539ad2a7ee38",
       "theme.text.secondary-dark": "6d29eb82769fa412ceaf9bea869ad02965ba3f5e",
       "theme.text.primary-light": "8f99326707bac3dfc10dd4c5353d2dbe0cad4f74",
-      "theme.text.accent": "361cc955a2016de1368273a117949156260aedeb",
       "theme.text.placeholder": "49f57d11774930d8781efd7c6c78be2fe9af7307",
       "theme.text.disabled": "bc09e7b248db697f5689d040e3c9d18d2f9c9967",
       "theme.divider.on-primary": "62231d1623161f66d5f3ddf234a2113750f15dd0",
@@ -491,7 +486,12 @@
       "theme.link.on-primary": "deba7c37a2cd402c60406321b1d3e247017026e1",
       "theme.link.on-secondary": "9f8047b7db20e173fd756c6c9dab981e7edba6a9",
       "theme.link.on-accent": "35a4f2a3054dceef22310a2968aafaf7092e6cf6",
-      "theme.background.brand": "c6b62f09b5715682b4d7ee01e43e0c0532966f9b"
+      "theme.background.brand": "c6b62f09b5715682b4d7ee01e43e0c0532966f9b",
+      "theme.on-colors.on-brand": "d101916632db0aea4b2c6dc16068db3b5220f6f2",
+      "theme.surface.brand": "bcec72d3a918c06351a49962462f7aba2a571541",
+      "theme.text.brand": "361cc955a2016de1368273a117949156260aedeb",
+      "theme.background.brand-2": "d1e0e88c32b154cc3f683e9341178f9f4efc8978",
+      "theme.background.brand-3": "8c54fcf87ce8cc0455383d39916625546aa55fe0"
     }
   }
 ]
