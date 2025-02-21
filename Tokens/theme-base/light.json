@@ -325,7 +325,7 @@
         "value": "{theme.colors.text-light}",
         "type": "color"
       },
-      "on-accent": {
+      "on-brand": {
         "value": "{theme.colors.text-light}",
         "type": "color"
       }

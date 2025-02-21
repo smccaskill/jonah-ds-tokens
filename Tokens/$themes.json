@@ -485,13 +485,13 @@
       "theme.border-width.box": "f4e24553b878bbd266d96d4c04673681f70750db",
       "theme.link.on-primary": "deba7c37a2cd402c60406321b1d3e247017026e1",
       "theme.link.on-secondary": "9f8047b7db20e173fd756c6c9dab981e7edba6a9",
-      "theme.link.on-accent": "35a4f2a3054dceef22310a2968aafaf7092e6cf6",
       "theme.background.brand": "c6b62f09b5715682b4d7ee01e43e0c0532966f9b",
       "theme.on-colors.on-brand": "d101916632db0aea4b2c6dc16068db3b5220f6f2",
       "theme.surface.brand": "bcec72d3a918c06351a49962462f7aba2a571541",
       "theme.text.brand": "361cc955a2016de1368273a117949156260aedeb",
       "theme.background.brand-2": "d1e0e88c32b154cc3f683e9341178f9f4efc8978",
-      "theme.background.brand-3": "8c54fcf87ce8cc0455383d39916625546aa55fe0"
+      "theme.background.brand-3": "8c54fcf87ce8cc0455383d39916625546aa55fe0",
+      "theme.link.on-brand": "35a4f2a3054dceef22310a2968aafaf7092e6cf6"
     }
   }
 ]

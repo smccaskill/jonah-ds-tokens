@@ -359,7 +359,7 @@
         "value": "{theme.colors.brand-primary}",
         "type": "color"
       },
-      "on-accent": {
+      "on-brand": {
         "value": "{theme.colors.text-light}",
         "type": "color"
       }
