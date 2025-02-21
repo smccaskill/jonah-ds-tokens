@@ -2,11 +2,11 @@
   "theme": {
     "font-family": {
       "headings": {
-        "value": "IvyMode",
+        "value": "Futura PT",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Futura PT",
+        "value": "Proxima Nova",
         "type": "fontFamilies"
       }
     },
@@ -22,21 +22,21 @@
     },
     "font-weight": {
       "headings": {
-        "value": "{font-weight.regular}",
+        "value": "Book",
         "type": "fontWeights"
       },
       "body": {
-        "value": "{font-weight.book}",
+        "value": "Regular",
         "type": "fontWeights"
       },
       "button": {
-        "value": "{font-weight.book}",
+        "value": "Regular",
         "type": "fontWeights"
       }
     },
     "border-radius": {
       "button": {
-        "value": "{border-radius.selectable.m}",
+        "value": "{border-radius.selectable.none}",
         "type": "borderRadius"
       },
       "input": {
@@ -76,7 +76,7 @@
     },
     "text-case": {
       "headings": {
-        "value": "uppercase",
+        "value": "null",
         "type": "textCase"
       },
       "body": {
@@ -100,23 +100,23 @@
     },
     "colors": {
       "brand-primary": {
-        "value": "#7F8D8D",
+        "value": "#CEAA74",
         "type": "color"
       },
       "brand-secondary": {
-        "value": "#F2EEE6",
+        "value": "#27353F",
         "type": "color"
       },
       "brand-tertiary": {
-        "value": "#7F8D8D",
+        "value": "#CFD5D7",
         "type": "color"
       },
       "bg-primary": {
-        "value": "#F2EEE6",
+        "value": "{theme.colors.brand-secondary}",
         "type": "color"
       },
       "bg-secondary": {
-        "value": "{theme.colors.brand-secondary}",
+        "value": "{theme.colors.brand-tertiary}",
         "type": "color"
       },
       "text-dark": {
@@ -124,13 +124,13 @@
         "type": "color"
       },
       "text-light": {
-        "value": "#F2EEE6",
+        "value": "#F1F1F1",
         "type": "color"
       }
     },
     "on-colors": {
       "on-primary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.colors.text-light}",
         "type": "color"
       },
       "on-secondary": {
@@ -138,7 +138,7 @@
         "type": "color"
       },
       "on-accent": {
-        "value": "{theme.colors.text-light}",
+        "value": "{theme.colors.text-dark}",
         "type": "color"
       },
       "on-image": {
@@ -248,11 +248,11 @@
     },
     "divider": {
       "on-primary": {
-        "value": "#D3D3D3",
+        "value": "{theme.colors.text-light}",
         "type": "color"
       },
       "on-secondary": {
-        "value": "#D3D3D3",
+        "value": "{theme.colors.text-dark}",
         "type": "color"
       },
       "on-brand": {
@@ -262,7 +262,7 @@
     },
     "border": {
       "on-primary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.colors.text-light}",
         "type": "color"
       },
       "on-secondary": {
@@ -270,7 +270,7 @@
         "type": "color"
       },
       "on-brand": {
-        "value": "{theme.colors.text-light}",
+        "value": "{theme.colors.text-dark}",
         "type": "color"
       },
       "focus": {
@@ -283,7 +283,7 @@
       },
       "button": {
         "value": {
-          "color": "{theme.border.on-brand}",
+          "color": "{theme.colors.brand-primary}",
           "width": "{border-width.10}",
           "style": "solid"
         },
@@ -300,11 +300,11 @@
         "type": "color"
       },
       "light": {
-        "value": "{theme.colors.text-light}",
+        "value": "{theme.colors.brand-primary}",
         "type": "color"
       },
       "dark": {
-        "value": "{color.neutral.80}",
+        "value": "{theme.colors.bg-primary}",
         "type": "color"
       }
     },
@@ -330,11 +330,11 @@
         "type": "color"
       },
       "on-secondary": {
-        "value": "{theme.colors.brand-primary}",
+        "value": "{theme.colors.text-dark}",
         "type": "color"
       },
       "on-accent": {
-        "value": "{theme.colors.text-light}",
+        "value": "{theme.colors.text-dark}",
         "type": "color"
       }
     }

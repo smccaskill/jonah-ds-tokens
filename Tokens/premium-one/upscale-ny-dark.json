@@ -2,11 +2,11 @@
   "theme": {
     "font-family": {
       "headings": {
-        "value": "IvyMode",
+        "value": "IvyOra Text",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Futura PT",
+        "value": "Sorts Mill Goudy",
         "type": "fontFamilies"
       }
     },
@@ -22,21 +22,21 @@
     },
     "font-weight": {
       "headings": {
-        "value": "{font-weight.regular}",
+        "value": "Light",
         "type": "fontWeights"
       },
       "body": {
-        "value": "{font-weight.book}",
+        "value": "Regular",
         "type": "fontWeights"
       },
       "button": {
-        "value": "{font-weight.book}",
+        "value": "Regular",
         "type": "fontWeights"
       }
     },
     "border-radius": {
       "button": {
-        "value": "{border-radius.selectable.m}",
+        "value": "{border-radius.selectable.none}",
         "type": "borderRadius"
       },
       "input": {
@@ -46,22 +46,22 @@
     },
     "button": {
       "vertical-padding": {
-        "lg": {
-          "value": "16",
+        "sm": {
+          "value": "12",
           "type": "spacing"
         },
-        "sm": {
-          "value": "10",
+        "lg": {
+          "value": "16",
           "type": "spacing"
         }
       },
       "horizontal-padding": {
-        "lg": {
-          "value": "32",
-          "type": "spacing"
-        },
         "sm": {
           "value": "24",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "32",
           "type": "spacing"
         }
       },
@@ -70,13 +70,13 @@
         "type": "sizing"
       },
       "lg": {
-        "value": "{dimension.300}",
+        "value": "{dimension.350}",
         "type": "sizing"
       }
     },
     "text-case": {
       "headings": {
-        "value": "uppercase",
+        "value": "null",
         "type": "textCase"
       },
       "body": {
@@ -100,23 +100,23 @@
     },
     "colors": {
       "brand-primary": {
-        "value": "#7F8D8D",
+        "value": "#B38A6B",
         "type": "color"
       },
       "brand-secondary": {
-        "value": "#F2EEE6",
+        "value": "#202020",
         "type": "color"
       },
       "brand-tertiary": {
-        "value": "#7F8D8D",
+        "value": "#D8D8D8",
         "type": "color"
       },
       "bg-primary": {
-        "value": "#F2EEE6",
+        "value": "{theme.colors.brand-secondary}",
         "type": "color"
       },
       "bg-secondary": {
-        "value": "{theme.colors.brand-secondary}",
+        "value": "{theme.colors.brand-tertiary}",
         "type": "color"
       },
       "text-dark": {
@@ -124,13 +124,13 @@
         "type": "color"
       },
       "text-light": {
-        "value": "#F2EEE6",
+        "value": "#F1F1F1",
         "type": "color"
       }
     },
     "on-colors": {
       "on-primary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.colors.text-light}",
         "type": "color"
       },
       "on-secondary": {
@@ -248,11 +248,11 @@
     },
     "divider": {
       "on-primary": {
-        "value": "#D3D3D3",
+        "value": "{theme.colors.text-light}",
         "type": "color"
       },
       "on-secondary": {
-        "value": "#D3D3D3",
+        "value": "{theme.colors.text-dark}",
         "type": "color"
       },
       "on-brand": {
@@ -262,15 +262,24 @@
     },
     "border": {
       "on-primary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.surface.transparent-white}",
         "type": "color"
       },
       "on-secondary": {
-        "value": "{theme.colors.text-dark}",
-        "type": "color"
+        "value": "{theme.colors.text-light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
       },
       "on-brand": {
-        "value": "{theme.colors.text-light}",
+        "value": "{theme.colors.text-dark}",
         "type": "color"
       },
       "focus": {
@@ -283,7 +292,7 @@
       },
       "button": {
         "value": {
-          "color": "{theme.border.on-brand}",
+          "color": "{theme.colors.brand-primary}",
           "width": "{border-width.10}",
           "style": "solid"
         },
@@ -300,7 +309,7 @@
         "type": "color"
       },
       "light": {
-        "value": "{theme.colors.text-light}",
+        "value": "{theme.colors.brand-tertiary}",
         "type": "color"
       },
       "dark": {
