@@ -694,15 +694,15 @@
   },
   "font-weight": {
     "light": {
-      "value": "300",
+      "value": "Light",
       "type": "fontWeights"
     },
     "extra-light": {
-      "value": "200",
+      "value": "Extra Light",
       "type": "fontWeights"
     },
     "thin": {
-      "value": "100",
+      "value": "Thin",
       "type": "fontWeights"
     },
     "book": {
@@ -710,31 +710,31 @@
       "type": "fontWeights"
     },
     "regular": {
-      "value": "400",
+      "value": "Regular",
       "type": "fontWeights"
     },
     "medium": {
-      "value": "500",
+      "value": "Medium",
       "type": "fontWeights"
     },
     "semibold": {
-      "value": "600",
+      "value": "Semibold",
       "type": "fontWeights"
     },
     "bold": {
-      "value": "700",
+      "value": "Bold",
       "type": "fontWeights"
     },
     "extra-bold": {
-      "value": "800",
+      "value": "Extra Bold",
       "type": "fontWeights"
     },
     "black": {
-      "value": "900",
+      "value": "Black",
       "type": "fontWeights"
     },
     "extra-black": {
-      "value": "950",
+      "value": "Extra Black",
       "type": "fontWeights"
     }
   }
