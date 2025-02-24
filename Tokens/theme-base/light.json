@@ -103,14 +103,6 @@
         "value": "#131313",
         "type": "color"
       },
-      "brand-secondary": {
-        "value": "#202020",
-        "type": "color"
-      },
-      "brand-tertiary": {
-        "value": "#333333",
-        "type": "color"
-      },
       "bg-primary": {
         "value": "#fff",
         "type": "color"
@@ -167,12 +159,12 @@
         "value": "{theme.colors.brand-primary}",
         "type": "color"
       },
-      "brand-2": {
-        "value": "{theme.colors.brand-secondary}",
+      "accent-1": {
+        "value": "#202020",
         "type": "color"
       },
-      "brand-3": {
-        "value": "{theme.colors.brand-tertiary}",
+      "accent-2": {
+        "value": "#333333",
         "type": "color"
       }
     },

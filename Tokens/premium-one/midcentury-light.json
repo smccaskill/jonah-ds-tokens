@@ -103,20 +103,12 @@
         "value": "#D5562A",
         "type": "color"
       },
-      "brand-secondary": {
-        "value": "#F4EFE9",
-        "type": "color"
-      },
-      "brand-tertiary": {
-        "value": "{color.neutral.80}",
-        "type": "color"
-      },
       "bg-primary": {
         "value": "#F4EFE9",
         "type": "color"
       },
       "bg-secondary": {
-        "value": "{theme.colors.brand-primary}",
+        "value": "#202020",
         "type": "color"
       },
       "text-dark": {
@@ -160,19 +152,19 @@
         "type": "color"
       },
       "secondary": {
-        "value": "{theme.colors.brand-tertiary}",
+        "value": "{theme.colors.bg-secondary}",
         "type": "color"
       },
       "brand": {
         "value": "{theme.colors.brand-primary}",
         "type": "color"
       },
-      "brand-2": {
-        "value": "{theme.colors.brand-secondary}",
+      "accent-1": {
+        "value": "null",
         "type": "color"
       },
-      "brand-3": {
-        "value": "{theme.colors.brand-tertiary}",
+      "accent-2": {
+        "value": "null",
         "type": "color"
       }
     },
