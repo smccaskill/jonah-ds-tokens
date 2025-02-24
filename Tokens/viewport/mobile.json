@@ -36,11 +36,11 @@
       }
     },
     "selectable": {
-      "none": {
+      "square": {
         "value": "{border-radius.scale} * {border-radius.0}",
         "type": "borderRadius"
       },
-      "m": {
+      "rounded": {
         "value": "{border-radius.scale} * {border-radius.25}",
         "type": "borderRadius"
       },

@@ -116,8 +116,6 @@
       "border-radius.container.xl": "9b23ec558e3ee24a556e1065e7495f9970c47be1",
       "border-radius.container.xxl": "5d33ec8762a3714edd1a20e7e9aeceafb5a1451f",
       "border-radius.container.pill": "10e09ab587d73dcd25793623623d6b7bd06fb431",
-      "border-radius.selectable.none": "250df4ee3bd67989c4626295b28fe746dc34ca86",
-      "border-radius.selectable.m": "9cd32e6887dc2fa46d72cdde0edd1b8f9fc7f296",
       "border-radius.selectable.pill": "2a730c7e500f04c14399364a0af1ae3561cd2486",
       "border-radius.theme.input": "4c7cba4780d60b8d14ab6cbfee8c67703d307e6a",
       "border-radius.theme.button": "62df3a41933f0d464d64df319a5fec51f4f2e0a7",
@@ -197,7 +195,9 @@
       "table.horizontal-padding.cell": "971c9f5bd472b1a41e53a6a8d63647676eb9ef6c",
       "divider.vertical-padding.sm": "af92a4ab4e11608a1d89db6965b543d82ba3b75c",
       "divider.vertical-padding.md": "95c343c0727a981029f2ac2ccac89c44efb31587",
-      "divider.vertical-padding.lg": "73b522bf049153f12dace023cc6f226532d669ec"
+      "divider.vertical-padding.lg": "73b522bf049153f12dace023cc6f226532d669ec",
+      "border-radius.selectable.square": "250df4ee3bd67989c4626295b28fe746dc34ca86",
+      "border-radius.selectable.rounded": "9cd32e6887dc2fa46d72cdde0edd1b8f9fc7f296"
     },
     "$figmaCollectionId": "VariableCollectionId:8003:3640",
     "$figmaModeId": "8003:1",
@@ -234,8 +234,6 @@
       "border-radius.container.xl": "9b23ec558e3ee24a556e1065e7495f9970c47be1",
       "border-radius.container.xxl": "5d33ec8762a3714edd1a20e7e9aeceafb5a1451f",
       "border-radius.container.pill": "10e09ab587d73dcd25793623623d6b7bd06fb431",
-      "border-radius.selectable.none": "250df4ee3bd67989c4626295b28fe746dc34ca86",
-      "border-radius.selectable.m": "9cd32e6887dc2fa46d72cdde0edd1b8f9fc7f296",
       "border-radius.selectable.pill": "2a730c7e500f04c14399364a0af1ae3561cd2486",
       "border-radius.theme.button": "62df3a41933f0d464d64df319a5fec51f4f2e0a7",
       "border-radius.theme.input": "4c7cba4780d60b8d14ab6cbfee8c67703d307e6a",
@@ -315,7 +313,9 @@
       "table.horizontal-padding.cell": "971c9f5bd472b1a41e53a6a8d63647676eb9ef6c",
       "divider.vertical-padding.sm": "af92a4ab4e11608a1d89db6965b543d82ba3b75c",
       "divider.vertical-padding.md": "95c343c0727a981029f2ac2ccac89c44efb31587",
-      "divider.vertical-padding.lg": "73b522bf049153f12dace023cc6f226532d669ec"
+      "divider.vertical-padding.lg": "73b522bf049153f12dace023cc6f226532d669ec",
+      "border-radius.selectable.square": "250df4ee3bd67989c4626295b28fe746dc34ca86",
+      "border-radius.selectable.rounded": "9cd32e6887dc2fa46d72cdde0edd1b8f9fc7f296"
     },
     "$figmaCollectionId": "VariableCollectionId:8003:3640",
     "$figmaModeId": "8004:7",

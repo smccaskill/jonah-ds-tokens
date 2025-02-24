@@ -36,7 +36,7 @@
     },
     "border-radius": {
       "button": {
-        "value": "{border-radius.selectable.none}",
+        "value": "{border-radius.selectable.square}",
         "type": "borderRadius"
       },
       "input": {
