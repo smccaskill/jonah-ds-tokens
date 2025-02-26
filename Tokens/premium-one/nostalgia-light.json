@@ -240,7 +240,7 @@
     },
     "divider": {
       "on-primary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "#d3d3d3",
         "type": "color"
       },
       "on-secondary": {
