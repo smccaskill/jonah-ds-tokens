@@ -202,6 +202,16 @@
       "value": {
         "fontFamily": "{theme.font-family.button}",
         "fontWeight": "{theme.font-weight.button}",
+        "fontSize": "{font-size.scaled.112}",
+        "lineHeight": "{theme.line-height.body}",
+        "letterSpacing": "{theme.letter-spacing.body}"
+      },
+      "type": "typography"
+    },
+    "button-medium": {
+      "value": {
+        "fontFamily": "{theme.font-family.button}",
+        "fontWeight": "{theme.font-weight.button}",
         "fontSize": "{font-size.scaled.100}",
         "lineHeight": "{theme.line-height.body}",
         "letterSpacing": "{theme.letter-spacing.body}"
