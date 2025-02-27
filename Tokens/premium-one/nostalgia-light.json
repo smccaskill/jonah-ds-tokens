@@ -69,13 +69,15 @@
           "type": "spacing"
         }
       },
-      "sm": {
-        "value": "{dimension.250}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.350}",
-        "type": "sizing"
+      "height": {
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.350}",
+          "type": "sizing"
+        }
       }
     },
     "text-case": {
