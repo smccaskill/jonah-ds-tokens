@@ -8,6 +8,10 @@
       "body": {
         "value": "Ysabeau Office",
         "type": "fontFamilies"
+      },
+      "button": {
+        "value": "{theme.font-family.body}",
+        "type": "fontFamilies"
       }
     },
     "letter-spacing": {

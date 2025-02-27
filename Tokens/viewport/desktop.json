@@ -210,7 +210,7 @@
     },
     "button-large": {
       "value": {
-        "fontFamily": "{theme.font-family.body}",
+        "fontFamily": "{theme.font-family.button}",
         "fontWeight": "{theme.font-weight.button}",
         "fontSize": "{font-size.scaled.100}",
         "lineHeight": "{theme.line-height.body}",
@@ -220,7 +220,7 @@
     },
     "button-small": {
       "value": {
-        "fontFamily": "{theme.font-family.body}",
+        "fontFamily": "{theme.font-family.button}",
         "fontWeight": "{font-weight.button}",
         "fontSize": "{font-size.scaled.87}",
         "lineHeight": "{theme.line-height.body}",
@@ -497,7 +497,7 @@
       "type": "fontFamilies"
     },
     "button": {
-      "value": "{theme.font-family.body}",
+      "value": "{theme.font-family.button}",
       "type": "fontFamilies"
     }
   },
