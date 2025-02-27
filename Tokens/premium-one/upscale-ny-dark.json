@@ -74,8 +74,12 @@
           "value": "{dimension.250}",
           "type": "sizing"
         },
-        "lg": {
+        "md": {
           "value": "{dimension.350}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.400}",
           "type": "sizing"
         }
       }

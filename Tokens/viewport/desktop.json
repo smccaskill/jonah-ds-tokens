@@ -443,12 +443,16 @@
       }
     },
     "button-text": {
-      "lg": {
-        "value": "{font-size.body.md}",
+      "sm": {
+        "value": "14",
         "type": "fontSizes"
       },
-      "sm": {
-        "value": "{font-size.body.sm}",
+      "md": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "18",
         "type": "fontSizes"
       }
     },
