@@ -109,7 +109,7 @@
       }
     },
     "colors": {
-      "brand-primary": {
+      "brand": {
         "value": "#D5562A",
         "type": "color"
       },
@@ -166,7 +166,7 @@
         "type": "color"
       },
       "brand": {
-        "value": "{theme.colors.brand-primary}",
+        "value": "{theme.colors.brand}",
         "type": "color"
       },
       "accent-1": {
@@ -188,7 +188,7 @@
         "type": "color"
       },
       "brand": {
-        "value": "{theme.colors.brand-primary}",
+        "value": "{theme.colors.brand}",
         "type": "color"
       },
       "transparent-white": {
@@ -236,7 +236,7 @@
         "type": "color"
       },
       "brand": {
-        "value": "{theme.colors.brand-primary}",
+        "value": "{theme.colors.brand}",
         "type": "color"
       },
       "placeholder": {
@@ -276,7 +276,7 @@
         "type": "color"
       },
       "focus": {
-        "value": "{theme.colors.brand-primary}",
+        "value": "{theme.colors.brand}",
         "type": "color"
       },
       "disabled": {
@@ -285,7 +285,7 @@
       },
       "button": {
         "value": {
-          "color": "{theme.colors.brand-primary}",
+          "color": "{theme.colors.brand}",
           "width": "{border-width.10}",
           "style": "solid"
         },
@@ -294,11 +294,11 @@
     },
     "action": {
       "primary": {
-        "value": "{theme.colors.brand-primary}",
+        "value": "{theme.colors.brand}",
         "type": "color"
       },
       "primary-border": {
-        "value": "{theme.colors.brand-primary}",
+        "value": "{theme.colors.brand}",
         "type": "color"
       },
       "light": {
@@ -312,11 +312,11 @@
     },
     "link": {
       "on-primary": {
-        "value": "{theme.colors.brand-primary}",
+        "value": "{theme.colors.brand}",
         "type": "color"
       },
       "on-secondary": {
-        "value": "{theme.colors.brand-primary}",
+        "value": "{theme.colors.brand}",
         "type": "color"
       },
       "on-brand": {

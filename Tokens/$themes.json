@@ -21,7 +21,6 @@
       "theme.button.vertical-padding.sm": "c2eccededa707c3e4df01583cc00cb5a38f17a59",
       "theme.button.horizontal-padding.lg": "f6056205caa08a5e1d428c54929c45a8c4ea3c07",
       "theme.button.horizontal-padding.sm": "eb59b1f353e00d03259c12b6087f007f10f7ce97",
-      "theme.colors.brand-primary": "2d8006c5172ec88933d69909ba32944046b42fe6",
       "theme.colors.bg-primary": "a98830e06a1250b7a5d265dabdde3e8b78ccc478",
       "theme.colors.bg-secondary": "24bd1092e42c66a2c94833e4d1d0e4027af3b4eb",
       "theme.colors.text-dark": "ab03c2d6266307ad5e20d790916df90f3075557e",
@@ -68,7 +67,8 @@
       "theme.background.accent-1": "a0e6da4c9f4e15a27686d182f96566bcdc523d6d",
       "theme.background.accent-2": "de71fd713e841a6e9395429cdeaa1cade74221f0",
       "theme.button.height.sm": "60a814c24a65201c2daa037feaab2b0413890dfb",
-      "theme.button.height.md": "b08aa5b366b794cb6af73b79b8c17cf1af7f8716"
+      "theme.button.height.md": "b08aa5b366b794cb6af73b79b8c17cf1af7f8716",
+      "theme.colors.brand": "2d8006c5172ec88933d69909ba32944046b42fe6"
     },
     "$figmaCollectionId": "VariableCollectionId:12004:77809",
     "$figmaModeId": "12004:0"
