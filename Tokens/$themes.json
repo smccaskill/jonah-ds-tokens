@@ -448,7 +448,7 @@
     "name": "Base",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "premium-one/nostalgia-light": "enabled"
+      "theme-base/premium-one": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:8004:3731",
     "$figmaModeId": "8004:5",

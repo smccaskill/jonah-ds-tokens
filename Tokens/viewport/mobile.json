@@ -583,15 +583,15 @@
   "button": {
     "vertical-padding": {
       "sm": {
-        "value": "{dimension.62}",
+        "value": "{theme.button.vertical-padding.sm}-4",
         "type": "spacing"
       },
       "md": {
-        "value": "{dimension.62}",
+        "value": "{theme.button.vertical-padding.md}-4",
         "type": "spacing"
       },
       "lg": {
-        "value": "{dimension.62}",
+        "value": "{theme.button.vertical-padding.lg}-4",
         "type": "spacing"
       },
       "none": {
@@ -601,15 +601,15 @@
     },
     "horizontal-padding": {
       "sm": {
-        "value": "{dimension.150}",
+        "value": "{theme.button.horizontal-padding.sm}-8",
         "type": "spacing"
       },
       "md": {
-        "value": "{theme.button.horizontal-padding.md}",
+        "value": "{theme.button.horizontal-padding.md}-8",
         "type": "spacing"
       },
       "lg": {
-        "value": "{dimension.150}",
+        "value": "{theme.button.horizontal-padding.lg}-8",
         "type": "spacing"
       },
       "xl": {
@@ -627,11 +627,11 @@
         "type": "sizing"
       },
       "md": {
-        "value": "{dimension.1300}",
+        "value": "{theme.button.height.md}-8",
         "type": "sizing"
       },
       "lg": {
-        "value": "200",
+        "value": "{theme.button.height.lg}-8",
         "type": "sizing"
       }
     }
