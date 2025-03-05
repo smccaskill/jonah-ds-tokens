@@ -2,7 +2,7 @@
   "theme": {
     "font-family": {
       "headings": {
-        "value": "Inter",
+        "value": "Fabriga",
         "type": "fontFamilies"
       },
       "body": {
@@ -26,7 +26,7 @@
     },
     "font-weight": {
       "headings": {
-        "value": "{font-weight.regular}",
+        "value": "{font-weight.medium}",
         "type": "fontWeights"
       },
       "body": {
@@ -40,7 +40,7 @@
     },
     "border-radius": {
       "button": {
-        "value": "{border-radius.selectable.pill}",
+        "value": "{border-radius.selectable.square}",
         "type": "borderRadius"
       },
       "input": {
@@ -50,36 +50,44 @@
     },
     "button": {
       "vertical-padding": {
-        "lg": {
-          "value": "12",
+        "sm": {
+          "value": "{premium-one.vertical-padding.sm-button}",
           "type": "spacing"
         },
-        "sm": {
-          "value": "10",
+        "md": {
+          "value": "{premium-one.vertical-padding.md-button}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{premium-one.vertical-padding.lg-button}",
           "type": "spacing"
         }
       },
       "horizontal-padding": {
-        "lg": {
-          "value": "24",
+        "sm": {
+          "value": "{premium-one.horizontal-padding.sm-button}",
           "type": "spacing"
         },
-        "sm": {
-          "value": "24",
+        "md": {
+          "value": "{premium-one.horizontal-padding.md-button}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{premium-one.horizontal-padding.lg-button}",
           "type": "spacing"
         }
       },
       "height": {
         "sm": {
-          "value": "{dimension.250}",
+          "value": "48",
           "type": "sizing"
         },
         "md": {
-          "value": "{dimension.300}",
+          "value": "56",
           "type": "sizing"
         },
         "lg": {
-          "value": "{dimension.400}",
+          "value": "64",
           "type": "sizing"
         }
       }
@@ -122,11 +130,11 @@
         "type": "color"
       },
       "text-dark": {
-        "value": "{color.neutral.80}",
+        "value": "#202020",
         "type": "color"
       },
       "text-light": {
-        "value": "{color.system.white}",
+        "value": "#ffffff",
         "type": "color"
       }
     },
@@ -136,11 +144,11 @@
         "type": "color"
       },
       "on-secondary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.colors.text-light}",
         "type": "color"
       },
       "on-brand": {
-        "value": "{theme.colors.text-light}",
+        "value": "{theme.colors.text-dark}",
         "type": "color"
       },
       "on-image": {
@@ -250,29 +258,29 @@
     },
     "divider": {
       "on-primary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.on-colors.on-primary}",
         "type": "color"
       },
       "on-secondary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.on-colors.on-secondary}",
         "type": "color"
       },
       "on-brand": {
-        "value": "{color.neutral.20}",
+        "value": "{theme.on-colors.on-brand}",
         "type": "color"
       }
     },
     "border": {
       "on-primary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.on-colors.on-primary}",
         "type": "color"
       },
       "on-secondary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.on-colors.on-secondary}",
         "type": "color"
       },
       "on-brand": {
-        "value": "{color.neutral.20}",
+        "value": "{theme.on-colors.on-brand}",
         "type": "color"
       },
       "focus": {
@@ -314,13 +322,13 @@
     },
     "border-width": {
       "box": {
-        "value": "{border-width.sm}",
+        "value": "8",
         "type": "borderWidth"
       }
     },
     "link": {
       "on-primary": {
-        "value": "{theme.colors.brand}",
+        "value": "{theme.colors.text-dark}",
         "type": "color"
       },
       "on-secondary": {

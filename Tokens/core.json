@@ -737,5 +737,65 @@
       "value": "Extra Black",
       "type": "fontWeights"
     }
+  },
+  "premium-one": {
+    "horizontal-padding": {
+      "sm-button": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "md-button": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "lg-button": {
+        "value": "36",
+        "type": "spacing"
+      }
+    },
+    "vertical-padding": {
+      "sm-button": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "md-button": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "lg-button": {
+        "value": "18",
+        "type": "spacing"
+      }
+    }
+  },
+  "premium": {
+    "horizontal-padding": {
+      "sm-button": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "md-button": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "lg-button": {
+        "value": "36",
+        "type": "spacing"
+      }
+    },
+    "vertical-padding": {
+      "sm-button": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "md-button": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "lg-button": {
+        "value": "18",
+        "type": "spacing"
+      }
+    }
   }
 }

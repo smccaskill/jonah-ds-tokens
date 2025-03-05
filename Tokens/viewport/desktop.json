@@ -585,6 +585,10 @@
         "value": "{theme.button.vertical-padding.sm}",
         "type": "spacing"
       },
+      "md": {
+        "value": "{theme.button.vertical-padding.md}",
+        "type": "spacing"
+      },
       "lg": {
         "value": "{theme.button.vertical-padding.lg}",
         "type": "spacing"
@@ -599,6 +603,10 @@
         "value": "{theme.button.horizontal-padding.sm}",
         "type": "spacing"
       },
+      "md": {
+        "value": "{theme.button.horizontal-padding.md}",
+        "type": "spacing"
+      },
       "lg": {
         "value": "{theme.button.horizontal-padding.lg}",
         "type": "spacing"
@@ -610,6 +618,20 @@
       "none": {
         "value": "0",
         "type": "spacing"
+      }
+    },
+    "height": {
+      "sm": {
+        "value": "{theme.button.height.sm}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{theme.button.height.md}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{theme.button.height.lg}",
+        "type": "sizing"
       }
     }
   },

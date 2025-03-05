@@ -586,6 +586,10 @@
         "value": "{dimension.62}",
         "type": "spacing"
       },
+      "md": {
+        "value": "{dimension.62}",
+        "type": "spacing"
+      },
       "lg": {
         "value": "{dimension.62}",
         "type": "spacing"
@@ -600,6 +604,10 @@
         "value": "{dimension.150}",
         "type": "spacing"
       },
+      "md": {
+        "value": "{theme.button.horizontal-padding.md}",
+        "type": "spacing"
+      },
       "lg": {
         "value": "{dimension.150}",
         "type": "spacing"
@@ -611,6 +619,20 @@
       "none": {
         "value": "0",
         "type": "spacing"
+      }
+    },
+    "height": {
+      "sm": {
+        "value": "{theme.button.height.sm}-8",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{dimension.1300}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "200",
+        "type": "sizing"
       }
     }
   },

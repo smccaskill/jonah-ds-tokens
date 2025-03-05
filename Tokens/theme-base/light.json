@@ -49,38 +49,46 @@
       }
     },
     "button": {
-      "vertical-padding": {
+      "height": {
+        "sm": {
+          "value": "40",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "56",
+          "type": "sizing"
+        },
         "lg": {
-          "value": "12",
+          "value": "64",
+          "type": "sizing"
+        }
+      },
+      "vertical-padding": {
+        "sm": {
+          "value": "{premium-one.vertical-padding.sm-button}",
           "type": "spacing"
         },
-        "sm": {
-          "value": "10",
+        "md": {
+          "value": "{premium-one.vertical-padding.md-button}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{premium-one.vertical-padding.lg-button}",
           "type": "spacing"
         }
       },
       "horizontal-padding": {
-        "lg": {
-          "value": "24",
-          "type": "spacing"
-        },
         "sm": {
-          "value": "24",
+          "value": "{premium-one.horizontal-padding.sm-button}",
           "type": "spacing"
-        }
-      },
-      "height": {
-        "sm": {
-          "value": "{dimension.250}",
-          "type": "sizing"
         },
         "md": {
-          "value": "{dimension.300}",
-          "type": "sizing"
+          "value": "{premium-one.horizontal-padding.md-button}",
+          "type": "spacing"
         },
         "lg": {
-          "value": "{dimension.400}",
-          "type": "sizing"
+          "value": "{premium-one.horizontal-padding.lg-button}",
+          "type": "spacing"
         }
       }
     },
