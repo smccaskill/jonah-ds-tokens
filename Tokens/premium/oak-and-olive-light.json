@@ -26,11 +26,11 @@
     },
     "font-weight": {
       "headings": {
-        "value": "{font-weight.medium}",
+        "value": "{font-weight.global.medium}",
         "type": "fontWeights"
       },
       "body": {
-        "value": "{font-weight.medium}",
+        "value": "{font-weight.global.medium}",
         "type": "fontWeights"
       },
       "button": {
