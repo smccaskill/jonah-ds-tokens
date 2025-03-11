@@ -314,7 +314,7 @@
         "type": "color"
       },
       "dark": {
-        "value": "{theme.colors.brand-secondary}",
+        "value": "{theme.colors.text-dark}",
         "type": "color"
       }
     },
