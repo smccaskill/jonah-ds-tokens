@@ -126,11 +126,11 @@
         "type": "color"
       },
       "bg-secondary": {
-        "value": "#4A5050",
+        "value": "#7F8D8D",
         "type": "color"
       },
       "text-dark": {
-        "value": "#202020",
+        "value": "#363D3D",
         "type": "color"
       },
       "text-light": {
@@ -178,7 +178,7 @@
         "type": "color"
       },
       "accent-1": {
-        "value": "#7F8D8D",
+        "value": "#4A5050",
         "type": "color"
       },
       "accent-2": {
