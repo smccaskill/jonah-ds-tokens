@@ -48,6 +48,24 @@
         "value": "{border-radius.scale} * {border-radius.pill}",
         "type": "borderRadius"
       }
+    },
+    "image": {
+      "sm": {
+        "value": "{border-radius.50}",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "{border-radius.100}",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "{border-radius.200}",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "{border-radius.300}",
+        "type": "borderRadius"
+      }
     }
   },
   "primary": {
