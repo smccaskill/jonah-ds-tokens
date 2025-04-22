@@ -75,7 +75,8 @@
         "fontWeight": "{theme.font-weight.headings}",
         "fontSize": "{font-size.scaled.375}",
         "letterSpacing": "{theme.letter-spacing.headings}",
-        "textCase": "{theme.text-case.headings}"
+        "textCase": "{theme.text-case.headings}",
+        "lineHeight": "{line-height.s}"
       },
       "type": "typography"
     },
@@ -241,6 +242,16 @@
         "fontFamily": "{theme.font-family.button}",
         "fontWeight": "{font-weight.button}",
         "fontSize": "{font-size.scaled.87}",
+        "lineHeight": "{theme.line-height.body}",
+        "letterSpacing": "{theme.letter-spacing.body}"
+      },
+      "type": "typography"
+    },
+    "button-xs": {
+      "value": {
+        "fontFamily": "{theme.font-family.button}",
+        "fontWeight": "{font-weight.button}",
+        "fontSize": "{font-size.scaled.75}",
         "lineHeight": "{theme.line-height.body}",
         "letterSpacing": "{theme.letter-spacing.body}"
       },
