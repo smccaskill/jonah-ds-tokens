@@ -636,6 +636,10 @@
         "value": "{font-size.scaled.base} * 300",
         "type": "fontSizes"
       },
+      "4x": {
+        "value": "{font-size.scaled.base} * 375",
+        "type": "fontSizes"
+      },
       "base": {
         "value": "{font-size.REM} / 100",
         "type": "fontSizes",

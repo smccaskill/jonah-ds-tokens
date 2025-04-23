@@ -65,6 +65,10 @@
       "xl": {
         "value": "{border-radius.200}",
         "type": "borderRadius"
+      },
+      "theme": {
+        "value": "{theme.border-radius.image-scale} * 1",
+        "type": "borderRadius"
       }
     }
   },

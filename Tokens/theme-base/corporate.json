@@ -46,6 +46,14 @@
       "input": {
         "value": "{border-radius.25}",
         "type": "borderRadius"
+      },
+      "image-scale": {
+        "value": "16",
+        "type": "borderRadius"
+      },
+      "image-half-scale": {
+        "value": "{theme.border-radius.image-scale} / 2",
+        "type": "borderRadius"
       }
     },
     "button": {
@@ -148,7 +156,7 @@
         "type": "color"
       },
       "on-brand": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.colors.text-light}",
         "type": "color"
       },
       "on-image": {
@@ -338,6 +346,55 @@
       "on-brand": {
         "value": "{theme.colors.text-light}",
         "type": "color"
+      }
+    }
+  },
+  "font-size": {
+    "typescale": {
+      "xxs": {
+        "value": "{font-size.scaled.base} * 75",
+        "type": "fontSizes"
+      },
+      "xs": {
+        "value": "{font-size.scaled.base} * 87.5",
+        "type": "fontSizes"
+      },
+      "s": {
+        "value": "{font-size.scaled.base} * 100",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "{font-size.scaled.base} * 112.5",
+        "type": "fontSizes"
+      },
+      "ml": {
+        "value": "{font-size.scaled.base} * 125",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "{font-size.scaled.base} * 150",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "{font-size.scaled.base} * 175",
+        "type": "fontSizes"
+      },
+      "xxl": {
+        "value": "{font-size.scaled.base} * 225",
+        "type": "fontSizes"
+      },
+      "xxxl": {
+        "value": "{font-size.scaled.base} * 300",
+        "type": "fontSizes"
+      },
+      "4x": {
+        "value": "{font-size.scaled.base} * 375",
+        "type": "fontSizes"
+      },
+      "base": {
+        "value": "{font-size.REM} / 100",
+        "type": "fontSizes",
+        "description": "Depending on what unit you want to add to your font-sizes, you have to change your calculation here:\nIf you are adding px (or nothing which defaults to px) in your font-size tokens, use this calculation here: {font-size.REM} / 100\nIf you are adding rem, use: 1/100"
       }
     }
   }

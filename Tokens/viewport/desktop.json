@@ -65,6 +65,10 @@
       "xl": {
         "value": "{border-radius.300}",
         "type": "borderRadius"
+      },
+      "theme": {
+        "value": "{theme.border-radius.image-scale} * 2",
+        "type": "borderRadius"
       }
     }
   },
@@ -106,7 +110,7 @@
       "value": {
         "fontFamily": "{theme.font-family.headings}",
         "fontWeight": "{theme.font-weight.headings}",
-        "fontSize": "{font-size.scaled.187}",
+        "fontSize": "{font-size.scaled.200}",
         "lineHeight": "{theme.line-height.headings}",
         "letterSpacing": "{theme.letter-spacing.headings}",
         "textCase": "{theme.text-case.headings}"
