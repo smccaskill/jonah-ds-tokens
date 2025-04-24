@@ -47,12 +47,20 @@
         "value": "{border-radius.25}",
         "type": "borderRadius"
       },
-      "image-scale": {
+      "image-base-scale": {
         "value": "16",
         "type": "borderRadius"
       },
+      "image-scale-1x": {
+        "value": "{theme.border-radius.image-base-scale} * 1.5",
+        "type": "borderRadius"
+      },
+      "image-scale-2x": {
+        "value": "{theme.border-radius.image-base-scale} * 2",
+        "type": "borderRadius"
+      },
       "image-half-scale": {
-        "value": "{theme.border-radius.image-scale} / 2",
+        "value": "{theme.border-radius.image-base-scale} / 2",
         "type": "borderRadius"
       }
     },
@@ -190,7 +198,7 @@
         "type": "color"
       },
       "accent-2": {
-        "value": "#333333",
+        "value": "#f4f4f4",
         "type": "color"
       }
     },

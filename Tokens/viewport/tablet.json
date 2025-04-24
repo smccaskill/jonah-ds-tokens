@@ -67,7 +67,7 @@
         "type": "borderRadius"
       },
       "theme": {
-        "value": "{theme.border-radius.image-scale} * 1.5",
+        "value": "{theme.border-radius.image-base-scale} * 1.5",
         "type": "borderRadius"
       }
     }
