@@ -802,11 +802,11 @@
     },
     "vertical-padding": {
       "sm-button": {
-        "value": "12",
+        "value": "19",
         "type": "spacing"
       },
       "md-button": {
-        "value": "16",
+        "value": "22",
         "type": "spacing"
       },
       "lg-button": {

@@ -2,11 +2,11 @@
   "theme": {
     "font-family": {
       "headings": {
-        "value": "Kanit",
+        "value": "Oswald",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Montserrat",
+        "value": "Josefin Sans",
         "type": "fontFamilies"
       },
       "button": {
@@ -26,7 +26,7 @@
     },
     "font-weight": {
       "headings": {
-        "value": "Regular",
+        "value": "Medium",
         "type": "fontWeights"
       },
       "body": {
@@ -55,7 +55,7 @@
           "type": "sizing"
         },
         "md": {
-          "value": "{dimension.300}",
+          "value": "46",
           "type": "sizing"
         },
         "lg": {
@@ -69,7 +69,7 @@
           "type": "spacing"
         },
         "md": {
-          "value": "{premium.vertical-padding.md-button}",
+          "value": "18",
           "type": "spacing"
         },
         "lg": {
@@ -83,7 +83,7 @@
           "type": "spacing"
         },
         "md": {
-          "value": "{premium.horizontal-padding.md-button}",
+          "value": "24",
           "type": "spacing"
         },
         "lg": {
@@ -94,7 +94,7 @@
     },
     "text-case": {
       "headings": {
-        "value": "null",
+        "value": "uppercase",
         "type": "textCase"
       },
       "body": {
@@ -118,7 +118,7 @@
     },
     "colors": {
       "brand": {
-        "value": "#94a075",
+        "value": "#8D4129",
         "type": "color"
       },
       "bg-primary": {
@@ -130,7 +130,7 @@
         "type": "color"
       },
       "text-dark": {
-        "value": "{color.neutral.80}",
+        "value": "#222222",
         "type": "color"
       },
       "text-light": {
@@ -310,11 +310,11 @@
         "type": "color"
       },
       "light": {
-        "value": "{color.system.white}",
+        "value": "{color.white.opacity.30}",
         "type": "color"
       },
       "dark": {
-        "value": "{color.neutral.80}",
+        "value": "{color.system.white}",
         "type": "color"
       }
     },

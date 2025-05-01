@@ -2,11 +2,11 @@
   "theme": {
     "font-family": {
       "headings": {
-        "value": "Kanit",
+        "value": "Fahkwang",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Montserrat",
+        "value": "Prompt",
         "type": "fontFamilies"
       },
       "button": {
@@ -26,7 +26,7 @@
     },
     "font-weight": {
       "headings": {
-        "value": "Regular",
+        "value": "Medium",
         "type": "fontWeights"
       },
       "body": {
@@ -55,7 +55,7 @@
           "type": "sizing"
         },
         "md": {
-          "value": "{dimension.300}",
+          "value": "46",
           "type": "sizing"
         },
         "lg": {
@@ -69,7 +69,7 @@
           "type": "spacing"
         },
         "md": {
-          "value": "{premium.vertical-padding.md-button}",
+          "value": "18",
           "type": "spacing"
         },
         "lg": {
@@ -83,7 +83,7 @@
           "type": "spacing"
         },
         "md": {
-          "value": "{premium.horizontal-padding.md-button}",
+          "value": "24",
           "type": "spacing"
         },
         "lg": {
@@ -104,7 +104,7 @@
     },
     "line-height": {
       "headings": {
-        "value": "{line-height.xl}",
+        "value": "{line-height.s}",
         "type": "lineHeights"
       },
       "body": {
@@ -118,7 +118,7 @@
     },
     "colors": {
       "brand": {
-        "value": "#94a075",
+        "value": "#B39981",
         "type": "color"
       },
       "bg-primary": {
@@ -126,11 +126,11 @@
         "type": "color"
       },
       "bg-secondary": {
-        "value": "#f8f8f8",
+        "value": "#f5f5f5",
         "type": "color"
       },
       "text-dark": {
-        "value": "{color.neutral.80}",
+        "value": "#4A4A4A",
         "type": "color"
       },
       "text-light": {
@@ -310,11 +310,11 @@
         "type": "color"
       },
       "light": {
-        "value": "{color.system.white}",
+        "value": "{color.white.opacity.30}",
         "type": "color"
       },
       "dark": {
-        "value": "{color.neutral.80}",
+        "value": "{color.system.white}",
         "type": "color"
       }
     },
