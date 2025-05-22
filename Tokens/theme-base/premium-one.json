@@ -22,6 +22,10 @@
       "body": {
         "value": "0",
         "type": "letterSpacing"
+      },
+      "button": {
+        "value": "0",
+        "type": "letterSpacing"
       }
     },
     "font-weight": {
@@ -98,6 +102,10 @@
         "type": "textCase"
       },
       "body": {
+        "value": "null",
+        "type": "textCase"
+      },
+      "button": {
         "value": "null",
         "type": "textCase"
       }
