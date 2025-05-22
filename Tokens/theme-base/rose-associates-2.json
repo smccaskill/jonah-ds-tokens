@@ -120,7 +120,7 @@
     },
     "line-height": {
       "headings": {
-        "value": "{line-height.s}",
+        "value": "{line-height.m}",
         "type": "lineHeights"
       },
       "body": {
