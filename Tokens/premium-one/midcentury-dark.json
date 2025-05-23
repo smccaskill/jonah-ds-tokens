@@ -385,7 +385,7 @@
   },
   "font-size": {
     "typescale": {
-      "xxs": {
+      "2xs": {
         "value": "{font-size.scaled.base} * 75",
         "type": "fontSizes"
       },
@@ -413,15 +413,15 @@
         "value": "{font-size.scaled.base} * 175",
         "type": "fontSizes"
       },
-      "xxl": {
+      "2xl": {
         "value": "{font-size.scaled.base} * 225",
         "type": "fontSizes"
       },
-      "xxxl": {
+      "3xl": {
         "value": "{font-size.scaled.base} * 300",
         "type": "fontSizes"
       },
-      "4x": {
+      "4xl": {
         "value": "{font-size.scaled.base} * 375",
         "type": "fontSizes"
       },
