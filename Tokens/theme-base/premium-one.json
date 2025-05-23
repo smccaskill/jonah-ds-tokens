@@ -351,7 +351,7 @@
   },
   "font-size": {
     "typescale": {
-      "xxs": {
+      "2xs": {
         "value": "{font-size.scaled.base} * 75",
         "type": "fontSizes"
       },
