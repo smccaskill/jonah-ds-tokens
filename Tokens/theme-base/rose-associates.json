@@ -2,11 +2,11 @@
   "theme": {
     "font-family": {
       "headings": {
-        "value": "Red Hat Display",
+        "value": "Playfair Display",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Red Hat Display",
+        "value": "Source Sans Pro",
         "type": "fontFamilies"
       },
       "button": {
@@ -128,7 +128,7 @@
     },
     "line-height": {
       "headings": {
-        "value": "{line-height.s}",
+        "value": "{line-height.m}",
         "type": "lineHeights"
       },
       "body": {
@@ -206,7 +206,7 @@
         "type": "color"
       },
       "accent-2": {
-        "value": "#9FCCEC",
+        "value": "#282828",
         "type": "color"
       }
     },
