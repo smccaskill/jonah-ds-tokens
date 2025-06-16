@@ -1,0 +1,19 @@
+{
+  "name": "jonah-ds-tokens",
+  "version": "1.0.0",
+  "description": "Design tokens for Jonah project",
+  "main": "tokens.json",
+  "scripts": {
+    "dev": "python3 -m http.server 3000 || python -m SimpleHTTPServer 3000",
+    "build": "echo 'Build process for design tokens'",
+    "test": "echo 'No tests specified'",
+    "validate": "echo 'Validate tokens structure'"
+  },
+  "keywords": [
+    "design-tokens",
+    "tokens",
+    "ui"
+  ],
+  "author": "",
+  "license": "ISC"
+}
