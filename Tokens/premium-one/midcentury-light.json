@@ -42,16 +42,6 @@
         "type": "fontWeights"
       }
     },
-    "border-radius": {
-      "button": {
-        "value": "{border-radius.selectable.pill}",
-        "type": "borderRadius"
-      },
-      "input": {
-        "value": "{border-radius.25}",
-        "type": "borderRadius"
-      }
-    },
     "button": {
       "height": {
         "sm": {
@@ -354,6 +344,32 @@
       "box": {
         "value": "{border-width.sm}",
         "type": "borderWidth"
+      }
+    },
+    "border-radius": {
+      "button": {
+        "value": "{border-radius.selectable.pill}",
+        "type": "borderRadius"
+      },
+      "input": {
+        "value": "{border-radius.25}",
+        "type": "borderRadius"
+      },
+      "image-base-scale": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "image-scale-1x": {
+        "value": "{theme.border-radius.image-base-scale} * 1.5",
+        "type": "borderRadius"
+      },
+      "image-scale-2x": {
+        "value": "{theme.border-radius.image-base-scale} * 2",
+        "type": "borderRadius"
+      },
+      "image-half-scale": {
+        "value": "{theme.border-radius.image-base-scale} / 2",
+        "type": "borderRadius"
       }
     }
   },
