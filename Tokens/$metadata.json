@@ -34,6 +34,9 @@
     "premium-one/upscale-ny-light",
     "premium-one/upscale-ny-dark",
     "premium-one/urban-light",
-    "premium-one/urban-dark"
+    "premium-one/urban-dark",
+    "demos/the-branch",
+    "demos/shko",
+    "demos/astin"
   ]
 }

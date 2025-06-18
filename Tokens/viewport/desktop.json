@@ -204,7 +204,7 @@
     "text-link": {
       "value": {
         "fontFamily": "{theme.font-family.body}",
-        "fontWeight": "{font-weight.button}",
+        "fontWeight": "{font-weight.regular}",
         "fontSize": "{font-size.scaled.100}",
         "lineHeight": "{theme.line-height.body}",
         "letterSpacing": "{theme.letter-spacing.body}"
