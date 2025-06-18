@@ -610,6 +610,10 @@
     "body": {
       "value": "{theme.text-case.body}",
       "type": "textCase"
+    },
+    "button": {
+      "value": "{theme.text-case.button}",
+      "type": "textCase"
     }
   },
   "button": {
