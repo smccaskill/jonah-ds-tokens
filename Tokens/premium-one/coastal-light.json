@@ -142,7 +142,7 @@
         "type": "color"
       },
       "on-secondary": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.colors.text-light}",
         "type": "color"
       },
       "on-brand": {

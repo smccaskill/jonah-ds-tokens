@@ -38,7 +38,7 @@
         "type": "fontWeights"
       },
       "button": {
-        "value": "{font-weight.medium}",
+        "value": "{font-weight.regular}",
         "type": "fontWeights"
       }
     },
