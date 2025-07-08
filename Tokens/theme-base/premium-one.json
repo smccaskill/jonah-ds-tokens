@@ -116,7 +116,7 @@
     },
     "colors": {
       "brand": {
-        "value": "#B9F47D",
+        "value": "#125EE2",
         "type": "color"
       },
       "bg-primary": {
@@ -146,7 +146,7 @@
         "type": "color"
       },
       "on-brand": {
-        "value": "{theme.colors.text-dark}",
+        "value": "{theme.colors.text-light}",
         "type": "color"
       },
       "on-image": {
